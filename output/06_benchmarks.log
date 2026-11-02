@@ -1,0 +1,57 @@
+|mu| 0-3: n=55 RMSE=4.14 model_sd=4.14 leader_won=0.636 pred=0.643
+|mu| 3-6: n=40 RMSE=4.33 model_sd=4.20 leader_won=0.900 pred=0.853
+|mu| 6-10: n=46 RMSE=4.74 model_sd=4.36 leader_won=1.000 pred=0.963
+|mu| 10-15: n=39 RMSE=4.51 model_sd=4.68 leader_won=1.000 pred=0.994
+|mu| 15-25: n=101 RMSE=5.72 model_sd=5.57 leader_won=1.000 pred=0.999
+|mu| 25-100: n=129 RMSE=7.40 model_sd=7.33 leader_won=1.000 pred=1.000
+close races residual sd by era:               size   std  mean
+year                          
+(1997, 2008]    68  4.34  0.90
+(2008, 2016]    52  4.39 -0.06
+(2016, 2024]    60  4.23 -1.65
+Platt slope by held-out cycle [1.47 1.53 1.57 1.46 1.47 1.47 1.53 1.48 1.49 1.56 1.48 1.69 1.45 1.51] mean 1.5111671827962225
+Raw   Brier 0.0407 LL 0.1317 | Recal Brier 0.0405 LL 0.1259
+                  n   pred    obs
+fav                              
+[0.5, 0.6)       10  0.551  0.400
+[0.6, 0.7)       25  0.646  0.640
+[0.7, 0.8)       16  0.753  0.625
+[0.8, 0.9)       31  0.854  0.806
+[0.9, 0.95)      15  0.927  1.000
+[0.95, 0.99)     43  0.974  0.977
+[0.99, 0.999)    50  0.996  1.000
+[0.999, 1.001)  262  1.000  1.000
+{'lite': 17318, 'deluxe': 17318, 'classic': 17318, 'polls-plus': 7839, 'polls-only': 7839, 'now-cast': 7839} [2022 2020 2018 2016 2014 2012 2010 2008]
+538 final-forecast dates {2018: Timestamp('2018-11-06 00:00:00'), 2020: Timestamp('2020-11-03 00:00:00'), 2022: Timestamp('2022-11-08 00:00:00')}
+538 deluxe vs mine on same n=95 races | 538 Brier 0.0485 LL 0.1594 | mine raw Brier 0.0487 LL 0.1587 | mine recal Brier 0.0485 LL 0.1560
+538 reliability (favourite):
+                  n   pred    obs
+fav                             
+[0.5, 0.6)       6  0.559  0.333
+[0.6, 0.7)       7  0.655  0.571
+[0.7, 0.8)       9  0.766  0.889
+[0.8, 0.9)      10  0.847  1.000
+[0.9, 0.95)      6  0.932  1.000
+[0.95, 0.99)    11  0.977  1.000
+[0.99, 0.995)    9  0.993  1.000
+[0.995, 0.999)  14  0.998  1.000
+[0.999, 1.001)  25  1.000  1.000
+538 >=.99 upsets: Empty DataFrame
+Columns: [year, state, candidate, fav]
+Index: []
+{2010: 38, 2012: 33, 2014: 35, 2016: 34, 2018: 35, 2020: 35, 2022: 35, 2024: 34}
+rating sample 267
+ratings logit slope 1.642 LOCO Brier 0.0400 LL 0.1242 implied P at avg score 1,2,3,3.5: [0.838 0.964 0.993 0.997]
+                n    obs
+fav                     
+(0.0, 0.75]    19  0.632
+(0.75, 1.5]    26  0.731
+(1.5, 2.5]     30  1.000
+(2.5, 3.25]    28  1.000
+(3.25, 3.75]   30  1.000
+(3.75, 4.01]  130  1.000
+upsets with |score|>=3: Empty DataFrame
+Columns: [year, st, score, margin]
+Index: []
+Same races n=273: ratings Brier 0.0403 LL 0.1248; my raw 0.0460 0.1454, recal 0.0471 0.1438
+mine+ratings pool Brier 0.0409 LL 0.1257

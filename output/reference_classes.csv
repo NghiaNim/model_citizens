@@ -1,0 +1,10 @@
+cls,n,cycles,won,lo,hi,model,misses
+All leads 2-8,75,14,0.88,0.83,0.93,0.901,00MI 02SD 10NV 12ND 16PA 16WI 20ME 20NC 24PA
+Leads 2-5,39,14,0.795,0.7,0.89,0.836,00MI 02SD 10NV 12ND 16PA 16WI 20NC 24PA
+Leads 5-8,36,12,0.972,0.94,1.0,0.971,20ME
+Leads 8-12,45,14,1.0,1.0,1.0,0.99,
+"D lead in red state (TX,OH,IA,KS,AK)",7,6,1.0,1.0,1.0,0.809,
+D lead in a midterm (any state),13,6,1.0,1.0,1.0,0.919,
+"Challenger leads incumbent (ME,OH,KS,AK)",17,10,0.647,0.41,0.86,0.739,02SD 10NV 16PA 16WI 20ME 20NC
+"Open-seat lead (MI,TX,IA)",24,11,0.958,0.87,1.0,0.954,12ND
+"R narrow lead in red state (SC,FL,MS,LA)",31,12,0.935,0.85,1.0,0.927,02SD 12ND

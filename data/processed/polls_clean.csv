@@ -1,0 +1,604 @@
+st,pollster,dates,n,moe,R,D,end,pop,N,partisan,hkey,rcv,margin,und,age
+AK,Alaska Survey Research,"October 26–29, 2026","1,326 (LV)",± 3.0%,49.0,51.0,2026-10-29,LV,1326.0,,Alaska Survey Research,3,2.0,0.0,5
+AK,Data for Progress (D),"October 8–16, 2026",671 (LV),± 4.0%,49.0,51.0,2026-10-16,LV,671.0,D,Data for Progress,3,2.0,3.0,18
+AK,InsiderAdvantage (R),"October 9–10, 2026","1,200 (LV)",± 2.8%,43.0,48.0,2026-10-10,LV,1200.0,R,InsiderAdvantage,BA,5.0,5.0,24
+AK,Alaska Survey Research,"October 1–3, 2026","1,512 (LV)",± 3.0%,49.0,51.0,2026-10-03,LV,1512.0,,Alaska Survey Research,3,2.0,0.0,31
+AK,Alaska Survey Research,"September 10–12, 2026","1,352 (LV)",± 3.0%,48.0,52.0,2026-09-12,LV,1352.0,,Alaska Survey Research,3,4.0,0.0,52
+AK,Fabrizio Ward (R)/ Impact Research (D),"September 8–11, 2026",800 (LV),± 3.5%,47.0,53.0,2026-09-11,LV,800.0,,Fabrizio Ward/ Impact Research,3,6.0,11.0,53
+AK,Data for Progress (D),"July 28 – August 4, 2026",567 (LV),± 4.0%,47.0,53.0,2026-08-04,LV,567.0,D,Data for Progress,3,6.0,6.0,91
+AK,InsiderAdvantage (R),"October 31 – November 1, 2026","1,200 (LV)",± 2.8%,48.0,48.0,2026-11-01,LV,1200.0,R,InsiderAdvantage,,0.0,0.5,2
+AK,New York Times/Siena University,"October 23–30, 2026",610 (LV),± 5.0%,46.0,48.0,2026-10-30,LV,610.0,,New York Times/Siena University,,2.0,6.0,4
+AK,Public Policy Polling (D),"October 14–15, 2026",578 (RV),–,47.0,48.0,2026-10-15,RV,578.0,D,Public Policy Polling,,1.0,5.0,19
+AK,Rasmussen Reports (R),"October 12–15, 2026",775 (LV),± 3.0%,42.0,44.0,2026-10-15,LV,775.0,R,Rasmussen Reports,,2.0,6.0,19
+AK,New York Times/Siena University,"September 24 – October 1, 2026",504 (LV),± 5.1%,43.0,50.0,2026-10-01,LV,504.0,,New York Times/Siena University,,7.0,6.0,33
+AK,Quantus Insights (R),"September 28–30, 2026",758 (LV),± 4.0%,46.0,46.0,2026-09-30,LV,758.0,R,Quantus Insights,,0.0,2.6666666666666665,34
+AK,Trafalgar Group (R),"September 22–24, 2026","1,079 (LV)",± 2.9%,47.0,46.0,2026-09-24,LV,1079.0,R,Trafalgar Group,,-1.0,4.0,40
+AK,co/efficient (R),"September 14–17, 2026",799 (LV),± 3.5%,48.0,46.0,2026-09-17,LV,799.0,R,co/efficient,,-2.5,4.5,47
+AK,Rasmussen Reports (R),"September 13–14, 2026","1,188 (LV)",± 3.0%,39.0,39.0,2026-09-14,LV,1188.0,R,Rasmussen Reports,,0.0,9.0,50
+AK,Alaska Survey Research,"August 20–23, 2026","1,495 (LV)",± 3.0%,49.0,51.0,2026-08-23,LV,1495.0,,Alaska Survey Research,,2.0,0.0,72
+AK,Alaska Survey Research,"August 2–5, 2026","1,371 (LV)",± 3.0%,49.0,51.0,2026-08-05,LV,1371.0,,Alaska Survey Research,,2.0,0.0,90
+AK,New York Times/Siena University,"June 15–29, 2026",593 (LV),± 4.9%,47.0,45.0,2026-06-29,LV,593.0,,New York Times/Siena University,,-2.0,5.0,127
+AK,Alaska Survey Research,"June 4–7, 2026","1,393 (LV)",± 3.0%,44.0,49.0,2026-06-07,LV,1393.0,,Alaska Survey Research,,5.0,7.0,149
+AK,Alaska Survey Research,"May 14–17, 2026","1,401 (LV)",± 3.0%,44.0,48.0,2026-05-17,LV,1401.0,,Alaska Survey Research,,4.0,8.0,170
+AK,Alaska Survey Research,"April 16–19, 2026","1,946 (LV)",± 2.5%,44.0,50.0,2026-04-19,LV,1946.0,,Alaska Survey Research,2,6.0,6.0,198
+AK,Alaska Survey Research,"March 19–22, 2026",951 (LV),± 2.7%,48.0,52.0,2026-03-22,LV,951.0,,Alaska Survey Research,3,4.0,0.0,226
+AK,Public Policy Polling (D),"January 16–17, 2026",611 (V),—,47.0,49.0,2026-01-17,V,611.0,D,Public Policy Polling,,2.0,4.0,290
+AK,Alaska Survey Research,"January 8–11, 2026","1,988 (LV)",± 2.2%,46.0,48.0,2026-01-11,LV,1988.0,,Alaska Survey Research,,2.0,6.0,296
+AK,Data for Progress (D),"October 17–23, 2025",823 (LV),± 3.0%,45.0,46.0,2025-10-23,LV,823.0,D,Data for Progress,,1.0,4.0,376
+AK,Alaska Survey Research,"October 10–15, 2025","1,708 (LV)",—,46.0,48.0,2025-10-15,LV,1708.0,,Alaska Survey Research,,2.0,6.0,384
+AK,Alaska Survey Research,"July 29 – August 1, 2025","1,623 (LV)",± 2.5%,47.0,42.0,2025-08-01,LV,1623.0,,Alaska Survey Research,,-5.0,11.0,459
+AK,Data for Progress (D),"July 21–27, 2025",678 (LV),± 4.0%,46.0,45.0,2025-07-27,LV,678.0,D,Data for Progress,,-1.0,4.0,464
+AL,Chism Strategies (D),"October 22–24, 2026",695 (LV),± 3.7%,48.0,40.0,2026-10-24,LV,695.0,D,Chism Strategies,,-8.0,12.0,10
+AL,Cygnal (R),"October 16–17, 2026",500 (LV),± 4.38%,50.0,35.0,2026-10-17,LV,500.0,R,Cygnal,,-15.0,15.0,17
+AL,The Alabama Poll,"October 15–16, 2026",600 (LV),—,56.0,35.0,2026-10-16,LV,600.0,,The Alabama Poll,,-21.0,9.0,18
+AL,RMG Research (R),"September 21–25, 2026",800 (RV),± 3.5%,54.0,33.0,2026-09-25,RV,800.0,R,RMG Research,,-21.0,13.0,39
+AL,yes. every kid.,"July 8–11, 2026",601 (LV),± 4.0%,47.0,32.0,2026-07-11,LV,601.0,,yes. every kid.,,-15.0,20.0,115
+AR,Hendrix College,"October 8–13, 2026",709 (LV),± 5.0%,50.0,41.0,2026-10-13,LV,709.0,,Hendrix College,,-9.0,4.5,21
+AR,GrayHouse (R),"September 30 – October 4, 2026",550 (LV),± 4.2%,50.0,39.0,2026-10-04,LV,550.0,R,GrayHouse,,-11.0,7.0,30
+AR,J.L. Partners,"August 14–18, 2026",803 (LV),± 3.5%,51.0,35.0,2026-08-18,LV,803.0,,J.L. Partners,,-16.0,11.0,77
+AR,Hendrix College,"August 11–12, 2026","1,217 (LV)",± 4.7%,44.0,47.0,2026-08-12,LV,1217.0,,Hendrix College,,3.0,6.0,83
+AR,2040 Strategy Group (D),"July 17–25, 2026",586 (LV),± 4.0%,46.0,43.0,2026-07-25,LV,586.0,D,2040 Strategy Group,,-3.0,11.0,101
+AR,GrayHouse (R),"February 7–9, 2026",550 (LV),± 4.2%,58.0,36.0,2026-02-09,LV,550.0,R,GrayHouse,,-22.0,7.0,267
+CO,CU Boulder/YouGov,"October 9–20, 2026",710 (LV),± 4.5%,39.0,57.0,2026-10-20,LV,710.0,,CU Boulder/YouGov,,18.0,4.0,14
+CO,Lake Research Partners (D),"September 16–30, 2026",600 (RV),—,38.0,52.0,2026-09-30,RV,600.0,D,Lake Research Partners,,14.0,8.0,34
+FL,Big Data Poll,"October 26–30, 2026","1,067 (LV)",± 3.0%,52.0,45.0,2026-10-30,LV,1067.0,,Big Data Poll,,-6.5,5.0,4
+FL,Stetson University,"October 26–30, 2026",852 (RV),± 3.6%,49.0,45.0,2026-10-30,RV,852.0,,Stetson University,,-4.0,3.0,4
+FL,InsiderAdvantage (R),"October 28–29, 2026","1,200 (LV)",± 2.8%,49.0,43.0,2026-10-29,LV,1200.0,R,InsiderAdvantage,,-6.0,6.0,5
+FL,Political Matrix/The Listener Group,"October 26–28, 2026",500 (LV),± 4.4%,42.0,36.0,2026-10-28,LV,500.0,,Political Matrix/The Listener Group,,-6.0,22.0,6
+FL,St. Pete Polls,"October 25–27, 2026",916 (LV),± 3.2%,49.0,45.0,2026-10-27,LV,916.0,,St. Pete Polls,,-4.0,4.0,7
+FL,ActiVote,"October 17–27, 2026",400 (LV),± 4.9%,53.0,47.0,2026-10-27,LV,400.0,,ActiVote,,-6.0,0.0,7
+FL,New York Times/Siena University,"October 19–25, 2026",813 (LV),± 3.9%,50.0,44.0,2026-10-25,LV,813.0,,New York Times/Siena University,,-6.0,5.0,9
+FL,RedBox Research (D),"October 20–23, 2026","4,832 (LV)",± 2.5%,50.0,43.0,2026-10-23,LV,4832.0,D,RedBox Research,,-7.0,4.0,11
+FL,Echelon Insights (R),"October 16–23, 2026",515 (LV),± 5.0%,51.0,43.0,2026-10-23,LV,515.0,R,Echelon Insights,,-8.0,4.0,11
+FL,Workbench Strategy (D),"October 18–22, 2026",800 (LV),± 3.5%,49.0,47.0,2026-10-22,LV,800.0,D,Workbench Strategy,,-2.0,4.0,12
+FL,co/efficient (R),"October 18–20, 2026","1,014 (LV)",± 3.1%,48.0,40.0,2026-10-20,LV,1014.0,R,co/efficient,,-8.0,11.0,14
+FL,University of North Florida,"October 12–19, 2026","1,471 (LV)",± 2.8%,49.0,45.0,2026-10-19,LV,1471.0,,University of North Florida,,-4.0,5.0,15
+FL,Univision/YouGov,"October 2–15, 2026",825 (RV),± 4.0%,51.0,42.0,2026-10-15,RV,825.0,,Univision/YouGov,,-9.0,7.0,19
+FL,ActiVote,"September 27 – October 15, 2026",400 (LV),± 4.9%,53.0,47.0,2026-10-15,LV,400.0,,ActiVote,,-6.0,0.0,19
+FL,MDW Communications,"October 4–10, 2026","2,351 (LV)",± 2.8%,48.0,42.0,2026-10-10,LV,2351.0,,MDW Communications,,-6.0,10.0,24
+FL,Stetson University,"October 1–9, 2026",716 (LV),± 4.2%,52.0,41.0,2026-10-09,LV,716.0,,Stetson University,,-11.0,6.0,25
+FL,St. Pete Polls,"October 5–7, 2026",836 (LV),± 3.4%,47.0,45.0,2026-10-07,LV,836.0,,St. Pete Polls,,-2.0,6.0,27
+FL,YouGov,"September 28 – October 5, 2026","3,813 (LV)",± 2.7%,49.0,44.0,2026-10-05,LV,3813.0,,YouGov,,-5.0,5.0,29
+FL,Targoz Market Research,"September 28 – October 4, 2026",847 (LV),–,52.0,42.0,2026-10-04,LV,847.0,,Targoz Market Research,,-10.0,4.0,30
+FL,Mason-Dixon,"September 28 – October 1, 2026",625 (LV),± 4.0%,50.0,40.0,2026-10-01,LV,625.0,,Mason-Dixon,,-10.0,8.0,33
+FL,Change Research (D),"September 25–27, 2026","1,063 (LV)",± 2.8%,48.0,47.0,2026-09-27,LV,1063.0,D,Change Research,,-1.0,5.0,37
+FL,Stetson University,"September 14–21, 2026",830 (LV),± 4.3%,51.0,40.0,2026-09-21,LV,830.0,,Stetson University,,-11.0,5.0,43
+FL,InsiderAdvantage (R),"September 20–21, 2026",600 (LV),± 4%,49.0,42.0,2026-09-21,LV,600.0,R,InsiderAdvantage,,-7.0,7.0,43
+FL,St. Pete Polls,"September 15–17, 2026",913 (LV),± 3.2%,45.0,45.0,2026-09-17,LV,913.0,,St. Pete Polls,,0.0,7.0,47
+FL,Quantus Insights (R),"September 8–10, 2026",733 (LV),± 4.1%,50.0,43.0,2026-09-10,LV,733.0,R,Quantus Insights,,-7.0,4.0,54
+FL,Change Research (D),"September 7–9, 2026","1,107 (LV)",± 2.8%,47.0,47.0,2026-09-09,LV,1107.0,D,Change Research,,0.0,5.0,55
+FL,University of North Florida,"July 8–17, 2026",848 (LV),± 3.8%,50.0,42.0,2026-07-17,LV,848.0,,University of North Florida,,-8.0,6.0,109
+FL,Stetson University,"March 15 – April 13, 2026",848 (LV),± 4.1%,51.0,38.0,2026-04-13,LV,848.0,,Stetson University,,-13.0,11.0,204
+FL,Emerson College,"March 29–31, 2026","1,125 (LV)",± 2.8%,47.0,36.0,2026-03-31,LV,1125.0,,Emerson College,,-11.0,16.0,217
+FL,University of North Florida,"February 21 – March 2, 2026",786 (LV),± 4.0%,46.0,38.0,2026-03-02,LV,786.0,,University of North Florida,,-8.0,15.0,246
+GA,Echelon Insights (R),"October 16–23, 2026",508 (LV),± 5.2%,40.0,55.0,2026-10-23,LV,508.0,R,Echelon Insights,,15.0,2.0,11
+GA,ActiVote,"October 6–20, 2026",400 (LV),± 4.9%,46.0,54.0,2026-10-20,LV,400.0,,ActiVote,,8.0,0.0,14
+GA,Quantus Insights (R),"October 15–17, 2026",755 (LV),± 3.8%,45.0,52.0,2026-10-17,LV,755.0,R,Quantus Insights,,7.666666666666667,1.6666666666666667,17
+GA,University of Georgia School of Public and International Affairs,"October 7–15, 2026","1,000 (LV)",± 3.1%,40.0,48.0,2026-10-15,LV,1000.0,,University of Georgia School of Public and International Affairs,,8.0,12.0,19
+GA,Trafalgar Group (R),"October 7–9, 2026","1,101 (LV)",± 2.9%,43.0,51.0,2026-10-09,LV,1101.0,R,Trafalgar Group,,8.0,6.0,25
+GA,InsiderAdvantage (R),"September 22–23, 2026","1,200 (LV)",± 4.0%,42.0,50.0,2026-09-23,LV,1200.0,R,InsiderAdvantage,,8.0,8.0,41
+GA,Big Data Poll (R),"September 21–23, 2026",678 (LV),± 4.0%,41.0,52.0,2026-09-23,LV,678.0,R,Big Data Poll,,10.5,3.5,41
+GA,YouGov,"September 15–18, 2026","3,301 (LV)",± 2.8%,42.0,52.0,2026-09-18,LV,3301.0,,YouGov,,9.0,5.0,46
+GA,Quantus Insights (R),"September 14–16, 2026",645 (LV),± 4.3%,44.0,48.0,2026-09-16,LV,645.0,R,Quantus Insights,,4.0,6.0,48
+GA,Rasmussen Reports (R),"September 14, 2026","1,019 (LV)",± 3.0%,42.0,51.0,2026-09-14,LV,1019.0,R,Rasmussen Reports,,9.0,6.0,50
+GA,Trafalgar Group (R),"September 10–12, 2026","1,091 (LV)",± 2.9%,43.0,49.0,2026-09-12,LV,1091.0,R,Trafalgar Group,,6.0,7.0,52
+GA,InsiderAdvantage (R),"August 16–17, 2026",800 (LV),± 3.5%,43.0,50.0,2026-08-17,LV,800.0,R,InsiderAdvantage,,7.0,7.0,78
+GA,Fabrizio Ward (R)/Impact Research (D),"July 13–16, 2026","1,060 (LV)",± 3.0%,43.0,52.0,2026-07-16,LV,1060.0,,Fabrizio Ward/Impact Research,,9.0,5.0,110
+GA,Wick,"June 27–30, 2026","1,175 (LV)",± 2.9%,43.0,47.0,2026-06-30,LV,1175.0,,Wick,,4.0,10.0,126
+GA,Beacon Research (D)/ Shaw & Co. Research (R),"June 23–27, 2026","1,002 (RV)",± 3.0%,43.0,56.0,2026-06-27,RV,1002.0,,Beacon Research/ Shaw & Co. Research,,13.0,1.0,129
+GA,Echelon Insights (R),"April 3–9, 2026",407 (LV),± 6.5%,44.0,51.0,2026-04-09,LV,407.0,R,Echelon Insights,,7.0,5.0,208
+GA,Emerson College,"February 28 – March 2, 2026","1,000 (LV)",± 3.0%,43.0,48.0,2026-03-02,LV,1000.0,,Emerson College,,5.0,9.0,246
+GA,Quantus Insights (R),"September 9–12, 2025",624 (RV),± 4.3%,38.0,38.0,2025-09-12,RV,624.0,R,Quantus Insights,,0.0,23.0,417
+GA,TIPP Insights,"July 28 – August 1, 2025","2,956 (RV)",± 1.8%,44.0,45.0,2025-08-01,RV,2956.0,,TIPP Insights,,1.0,8.0,459
+GA,Cygnal (R),"May 15–17, 2025",800 (LV),± 3.4%,43.0,46.0,2025-05-17,LV,800.0,R,Cygnal,,3.0,11.0,535
+GA,Trafalgar Group (R),"April 24–27, 2025","1,426 (LV)",± 2.9%,43.0,48.0,2025-04-27,LV,1426.0,R,Trafalgar Group,,5.0,6.0,555
+GA,WPA Intelligence (R),"January 14–15, 2025",500 (LV),± 4.4%,34.0,44.0,2025-01-15,LV,500.0,R,WPA Intelligence,,10.0,22.0,657
+IA,New York Times/Siena University,"October 26 – November 1, 2026",705 (LV),± 4.7%,47.0,48.0,2026-11-01,LV,705.0,,New York Times/Siena University,,1.0,5.0,2
+IA,YouGov,"October 26–29, 2026","2,020 (LV)",± 3.1%,49.0,50.0,2026-10-29,LV,2020.0,,YouGov,,1.0,0.0,5
+IA,co/efficient (R),"October 28, 2026","1,020 (LV)",± 3.1%,48.0,46.0,2026-10-28,LV,1020.0,R,co/efficient,,-2.0,5.0,6
+IA,Echelon Insights (R),"October 16–23, 2026",403 (LV),± 6.5%,43.0,45.0,2026-10-23,LV,403.0,R,Echelon Insights,,2.0,3.0,11
+IA,InsiderAdvantage (R),"October 21–22, 2026","1,200 (LV)",± 2.8%,47.0,45.0,2026-10-22,LV,1200.0,R,InsiderAdvantage,,-2.0,8.0,12
+IA,co/efficient (R),"October 15–19, 2026",863 (LV),± 3.3%,48.0,45.0,2026-10-19,LV,863.0,R,co/efficient,,-3.0,5.5,15
+IA,Trafalgar Group (R),"October 13–15, 2026","1,094 (LV)",± 2.9%,46.0,44.0,2026-10-15,LV,1094.0,R,Trafalgar Group,,-2.0,6.0,19
+IA,GS Strategy Group (R)/ New River Strategies (D),"October 9–13, 2026",602 (LV),—,44.0,46.0,2026-10-13,LV,602.0,,GS Strategy Group/ New River Strategies,,2.0,2.0,21
+IA,NPA Polling,"October 8–12, 2026",678 (LV),± 3.8%,47.0,44.0,2026-10-12,LV,678.0,,NPA Polling,,-2.0,4.5,22
+IA,YouGov,"October 6–12, 2026","2,245 (LV)",± 3.1%,46.0,47.0,2026-10-12,LV,2245.0,,YouGov,,1.0,4.0,22
+IA,Marist University,"October 8–11, 2026",—(LV),± 6.6%,45.0,48.0,2026-10-11,LV,,,Marist University,,3.0,4.0,23
+IA,Emerson College,"October 5–6, 2026",650 (LV),± 3.8%,47.0,45.0,2026-10-06,LV,650.0,,Emerson College,,-2.0,7.0,28
+IA,SSRS,"September 29 – October 5, 2026",801 (LV),± 4.2%,45.0,43.0,2026-10-05,LV,801.0,,SSRS,,-2.0,12.0,29
+IA,Suffolk University,"October 1–4, 2026",500 (LV),± 4.4%,44.0,48.0,2026-10-04,LV,500.0,,Suffolk University,,4.0,6.0,30
+IA,New York Times/Siena University,"September 22 – October 1, 2026",606 (LV),± 4.6%,48.0,47.0,2026-10-01,LV,606.0,,New York Times/Siena University,,-1.0,5.0,33
+IA,Rasmussen Reports (R),"September 28–30, 2026","1,048 (LV)",± 3.0%,43.0,47.0,2026-09-30,LV,1048.0,R,Rasmussen Reports,,4.0,7.0,34
+IA,Quantus Insights (R),"September 28–29, 2026",738 (LV),± 3.8%,47.0,46.0,2026-09-29,LV,738.0,R,Quantus Insights,,-1.6666666666666667,3.0,35
+IA,Beacon Research (D)/ Shaw & Co. Research (R),"September 24–28, 2026","1,008 (LV)",± 3.0%,47.0,49.0,2026-09-28,LV,1008.0,,Beacon Research/ Shaw & Co. Research,,2.0,4.0,36
+IA,InsiderAdvantage (R),"September 22–23, 2026","1,200 (LV)",± 2.8%,46.0,47.0,2026-09-23,LV,1200.0,R,InsiderAdvantage,,1.0,4.0,41
+IA,Marist University,"September 17–20, 2026","1,050 (RV)",± 4.4%,42.0,50.0,2026-09-20,RV,1050.0,,Marist University,,8.0,5.0,44
+IA,Trafalgar Group (R),"September 16–18, 2026","1,089 (LV)",± 2.9%,44.0,42.0,2026-09-18,LV,1089.0,R,Trafalgar Group,,-2.0,10.0,46
+IA,co/efficient (R),"September 14–16, 2026",831 (LV),± 3.4%,46.0,42.0,2026-09-16,LV,831.0,R,co/efficient,,-4.5,9.0,48
+IA,Cygnal (R),"September 9–11, 2026",500 (LV),± 4.4%,43.0,43.0,2026-09-11,LV,500.0,R,Cygnal,,0.0,10.0,53
+IA,Rasmussen Reports (R),"September 8–10, 2026","1,031 (LV)",± 3.0%,40.0,45.0,2026-09-10,LV,1031.0,R,Rasmussen Reports,,5.0,11.0,54
+IA,YouGov,"September 3–8, 2026","2,041 (LV)",± 3.5%,43.0,47.0,2026-09-08,LV,2041.0,,YouGov,,4.0,8.0,56
+IA,Emerson College,"August 31 – September 1, 2026",750 (LV),± 3.6%,50.0,45.0,2026-09-01,LV,750.0,,Emerson College,,-5.0,5.0,63
+IA,Global Strategy Group (D),"August 27–31, 2026",800 (LV),± 3.5%,42.0,46.0,2026-08-31,LV,800.0,D,Global Strategy Group,,4.0,6.0,64
+IA,Abacus Data,"August 26–28, 2026",323 (LV),—,45.0,54.0,2026-08-28,LV,323.0,,Abacus Data,,9.0,1.0,67
+IA,Suffolk University,"August 20–23, 2026",500 (LV),± 4.4%,45.0,41.0,2026-08-23,LV,500.0,,Suffolk University,,-4.0,10.0,72
+IA,Emerson College,"August 2–4, 2026",712 (LV),± 3.7%,48.0,45.0,2026-08-04,LV,712.0,,Emerson College,,-3.0,6.0,91
+IA,Beacon Research (D)/ Shaw & Co. Research (R),"June 23–27, 2026","1,003 (RV)",± 3.0%,46.0,50.0,2026-06-27,RV,1003.0,,Beacon Research/ Shaw & Co. Research,,4.0,4.0,129
+IA,New York Times/Siena University,"June 15–27, 2026",600 (LV),± 4.7%,48.0,46.0,2026-06-27,LV,600.0,,New York Times/Siena University,,-2.0,5.0,129
+IA,Cygnal (R),"June 16–19, 2026",600 (LV),± 4.0%,46.0,44.0,2026-06-19,LV,600.0,R,Cygnal,,-2.0,10.0,137
+IA,Global Strategy Group (D),"June 8–11, 2026","1,000 (LV)",± 3.1%,45.0,47.0,2026-06-11,LV,1000.0,D,Global Strategy Group,,2.0,8.0,145
+IA,Public Policy Polling (D),"June 3–4, 2026",557 (RV),± 4.2%,46.0,46.0,2026-06-04,RV,557.0,D,Public Policy Polling,,0.0,7.0,152
+IA,Echelon Insights (R),"April 3–9, 2026",377 (LV),± 6.6%,45.0,46.0,2026-04-09,LV,377.0,R,Echelon Insights,,1.0,9.0,208
+IA,GQR (D),"March 10–16, 2026","1,200 (LV)",± 2.8%,47.0,43.0,2026-03-16,LV,1200.0,D,GQR,,-4.0,11.0,232
+IA,Change Research (D),"January 8–11, 2026","1,108 (LV)",—,44.0,41.0,2026-01-11,LV,1108.0,D,Change Research,,-3.0,14.0,296
+ID,VoteNexus Research,"October 21–22, 2026",700 (LV),± 4.5%,49.0,43.0,2026-10-22,LV,700.0,,VoteNexus Research,,-6.0,8.0,12
+ID,Peak Insights (R),"September 28–30, 2026",500 (LV),± 4%,49.0,24.0,2026-09-30,LV,500.0,R,Peak Insights,,-25.0,15.0,34
+ID,Advanced Targeting Research,"September 13–16, 2026",700 (RV),± 3.7%,39.0,50.0,2026-09-16,RV,700.0,,Advanced Targeting Research,,9.0,11.0,48
+ID,Peak Insights (R),"August 11–13, 2026",500 (LV),± 4.0%,52.0,18.0,2026-08-13,LV,500.0,R,Peak Insights,,-34.0,17.0,82
+ID,The Bullfinch Group,"August 4–7, 2026",608 (LV),± 3.9%,33.0,38.0,2026-08-07,LV,608.0,,The Bullfinch Group,,0.5,30.5,88
+ID,Change Research (D),"July 28–30, 2026","1,213 (LV)",± 3.0%,45.0,21.0,2026-07-30,LV,1213.0,D,Change Research,,-24.0,20.0,96
+ID,The Bullfinch Group,"May 29 – June 1, 2026",774 (RV),± 3.5%,40.0,36.0,2026-06-01,RV,774.0,,The Bullfinch Group,,-4.0,24.0,155
+ID,Public Policy Polling (I),"March 16–17, 2026",639 (RV),± 3.9%,48.0,34.0,2026-03-17,RV,639.0,,Public Policy Polling,,-14.0,18.0,231
+ID,Peak Insights (R),"June 6–7, 2026",500 (LV),± 4.0%,55.0,7.0,2026-06-07,LV,500.0,R,Peak Insights,,-48.0,14.0,149
+IL,ActiVote,"October 21–30, 2026",400 (LV),± 4.9%,44.0,56.0,2026-10-30,LV,400.0,,ActiVote,,12.0,0.0,4
+IL,ActiVote,"September 26 – October 20, 2026",400 (LV),± 4.9%,41.5,58.5,2026-10-20,LV,400.0,,ActiVote,,17.0,0.0,14
+IL,Public Policy Polling (D),"September 30 – October 1, 2026",569 (LV),—,36.0,49.0,2026-10-01,LV,569.0,D,Public Policy Polling,,13.0,15.0,33
+KS,New York Times/Siena University,"October 27 – November 1, 2026",736 (LV),± 4.4%,44.0,49.0,2026-11-01,LV,736.0,,New York Times/Siena University,,5.0,3.0,2
+KS,YouGov,"October 26–29, 2026","2,092 (LV)",± 2.8%,49.0,50.0,2026-10-29,LV,2092.0,,YouGov,,1.0,0.0,5
+KS,Emerson College,"October 26–28, 2026",800 (LV),± 3.5%,47.0,50.0,2026-10-28,LV,800.0,,Emerson College,,3.5,3.0,6
+KS,The Washington Post/SSPG,"October 22–26, 2026",801 (LV),± 3.9%,43.0,52.0,2026-10-26,LV,801.0,,The Washington Post/SSPG,,9.5,3.5,8
+KS,SSRS,"October 20–26, 2026",838 (LV),± 4.5%,45.0,49.0,2026-10-26,LV,838.0,,SSRS,,4.0,0.0,8
+KS,RedBox Research (D),"October 20–23, 2026","1,301 (LV)",± 3.2%,46.0,45.0,2026-10-23,LV,1301.0,D,RedBox Research,,-1.0,4.0,11
+KS,InsiderAdvantage (R),"October 13–14, 2026","1,200 (LV)",± 2.8%,48.0,47.0,2026-10-14,LV,1200.0,R,InsiderAdvantage,,-1.0,2.0,20
+KS,InsiderAdvantage (R),"October 9–10, 2026","1,200 (LV)",± 2.8%,47.0,48.0,2026-10-10,LV,1200.0,R,InsiderAdvantage,,1.0,2.0,24
+KS,GBAO (D),"September 30 – October 4, 2026",600 (LV),± 4.0%,41.0,46.0,2026-10-04,LV,600.0,D,GBAO,,5.0,9.5,30
+KS,YouGov,"September 24 – October 4, 2026","2,255 (LV)",± 3.2%,45.0,48.0,2026-10-04,LV,2255.0,,YouGov,,3.0,5.0,30
+KS,New York Times/Siena University,"September 22–30, 2026",605 (LV),± 4.6%,45.0,45.0,2026-09-30,LV,605.0,,New York Times/Siena University,,-0.5,6.5,34
+KS,Trafalgar Group (R),"September 29 – October 1, 2026","1,095 (LV)",± 2.9%,44.0,44.0,2026-10-01,LV,1095.0,R,Trafalgar Group,,0.0,10.0,33
+KS,Emerson College,"September 15–16, 2026",750 (LV),± 3.6%,43.0,45.0,2026-09-16,LV,750.0,,Emerson College,,2.0,8.0,48
+KS,Global Strategy Group (D),"September 13–16, 2026",800 (LV),± 3.5%,47.0,49.0,2026-09-16,LV,800.0,D,Global Strategy Group,,3.0,7.0,48
+KS,co/efficient (R),"September 8–10, 2026",915 (LV),± 3.22%,49.0,44.0,2026-09-10,LV,915.0,R,co/efficient,,-5.0,5.0,54
+KS,Global Strategy Group (D),"August 12–16, 2026",800 (LV),± 3.5%,43.0,44.0,2026-08-16,LV,800.0,D,Global Strategy Group,,1.0,8.0,79
+KS,Public Policy Polling (D),"August 7–8, 2026",569 (LV),—,46.0,45.0,2026-08-08,LV,569.0,D,Public Policy Polling,,-1.0,9.0,87
+KS,GBAO (D),"July 8–13, 2026",600 (LV),± 4.0%,47.0,43.0,2026-07-13,LV,600.0,D,GBAO,,-4.0,10.0,113
+KS,Tavern Research (D),"January 26–28, 2026","1,013 (LV)",± 4.0%,54.0,46.0,2026-01-28,LV,1013.0,D,Tavern Research,,-3.0,0.0,279
+KY,Global Strategy Group (D),"August 24–27, 2026",600 (LV),± 4.0%,49.0,40.0,2026-08-27,LV,600.0,D,Global Strategy Group,,-9.0,11.0,68
+KY,Public Policy Polling (D),"December 18–19, 2025",650 (V),—,49.0,38.0,2025-12-19,V,650.0,D,Public Policy Polling,,-11.0,13.0,319
+LA,Hart Research Associates (D),"October 28–29, 2026",502 (LV),± 4.5%,45.0,45.0,2026-10-29,LV,502.0,D,Hart Research Associates,,0.0,10.0,5
+LA,Hart Research Associates (D),"September 17–19, 2026",500 (LV),± 4.5%,48.0,44.0,2026-09-19,LV,500.0,D,Hart Research Associates,,-4.0,8.0,45
+LA,Public Policy Polling (D),"July 21–22, 2026",518 (RV),–,41.0,37.0,2026-07-22,RV,518.0,D,Public Policy Polling,,-4.0,22.0,104
+MA,University of New Hampshire,"October 27–31, 2026",905 (LV),± 3.3%,32.0,53.0,2026-10-31,LV,905.0,,University of New Hampshire,,21.0,4.0,3
+MA,Suffolk University,"October 14–18, 2026",500 (LV),± 4.4%,32.0,60.0,2026-10-18,LV,500.0,,Suffolk University,,28.0,6.0,16
+MA,UMass Amherst/YouGov,"October 5–12, 2026",800 (RV),± 4.2%,29.0,56.0,2026-10-12,RV,800.0,,UMass Amherst/YouGov,,26.5,6.5,22
+MA,MassINC Polling Group,"September 14–22, 2026",800 (LV),± 4.0%,28.0,54.0,2026-09-22,LV,800.0,,MassINC Polling Group,,26.0,11.5,42
+MA,University of New Hampshire,"September 17–21, 2026",564 (LV),± 4.1%,30.0,53.0,2026-09-21,LV,564.0,,University of New Hampshire,,23.0,8.0,43
+MA,University of New Hampshire,"August 20–24, 2026",881 (LV),± 2.2%,30.0,49.0,2026-08-24,LV,881.0,,University of New Hampshire,,19.0,12.0,71
+MA,UMass Amherst/YouGov,"August 5–12, 2026",800 (RV),± 4.4%,30.0,51.0,2026-08-12,RV,800.0,,UMass Amherst/YouGov,,21.0,15.0,83
+MA,University of New Hampshire,"June 18–23, 2026",623 (LV),± 3.8%,34.0,50.0,2026-06-23,LV,623.0,,University of New Hampshire,,16.0,16.0,133
+MA,Suffolk University,"June 8–12, 2026",500 (LV),± 4.4%,30.0,55.0,2026-06-12,LV,500.0,,Suffolk University,,25.0,14.0,144
+MA,University of New Hampshire,"April 16–20, 2026",603 (LV),± 4.0%,32.0,55.0,2026-04-20,LV,603.0,,University of New Hampshire,,23.0,12.0,197
+MA,University of New Hampshire,"February 12–16, 2026",620 (LV),± 3.9%,27.0,56.0,2026-02-16,LV,620.0,,University of New Hampshire,,29.0,15.0,260
+MA,Cygnal (R),"January 22–25, 2026",800 (LV),± 3.5%,30.0,54.0,2026-01-25,LV,800.0,R,Cygnal,,24.0,16.0,282
+MA,Suffolk University,"November 19–23, 2025",500 (RV),± 4.4%,31.0,54.0,2025-11-23,RV,500.0,,Suffolk University,,23.0,15.0,345
+MA,SurveyUSA,"February 28 – March 4, 2025",775 (RV),—,26.0,45.0,2025-03-04,RV,775.0,,SurveyUSA,,19.0,30.0,609
+ME,New York Times/Siena University,"October 27 – November 1, 2026",714 (LV),± 4.7%,45.0,51.0,2026-11-01,LV,714.0,,New York Times/Siena University,,6.0,4.0,2
+ME,University of New Hampshire,"October 27–31, 2026","1,654 (LV)",± 2.4%,45.0,54.0,2026-10-31,LV,1654.0,,University of New Hampshire,,9.0,0.0,3
+ME,YouGov,"October 26–29, 2026","1,503 (LV)",± 4.0%,47.0,52.0,2026-10-29,LV,1503.0,,YouGov,,5.0,0.0,5
+ME,Data for Progress (D),"October 23–27, 2026",652 (LV),± 4.5%,45.0,50.0,2026-10-27,LV,652.0,D,Data for Progress,,5.0,4.0,7
+ME,SSRS,"October 20–26, 2026",783 (LV),± 4.5%,45.0,49.0,2026-10-26,LV,783.0,,SSRS,,4.0,0.0,8
+ME,Marist University,"October 22–25, 2026",— (LV),± 6.6%,47.0,49.0,2026-10-25,LV,,,Marist University,,2.0,3.0,9
+ME,Trafalgar Group (R),"October 21–23, 2026","1,077 (LV)",± 2.9%,47.0,47.0,2026-10-23,LV,1077.0,R,Trafalgar Group,,0.0,7.0,11
+ME,Echelon Insights (R),"October 16–23, 2026",413 (LV),± 6.3%,44.0,51.0,2026-10-23,LV,413.0,R,Echelon Insights,,7.0,4.0,11
+ME,Beacon Research (D)/ Shaw & Co. Research (R),"October 16–20, 2026","1,514 (LV)",± 2.5%,49.0,49.0,2026-10-20,LV,1514.0,,Beacon Research/ Shaw & Co. Research,,0.0,1.0,14
+ME,InsiderAdvantage (R),"October 13–14, 2026","1,200 (LV)",± 2.8%,47.0,49.0,2026-10-14,LV,1200.0,R,InsiderAdvantage,,2.0,4.0,20
+ME,Suffolk University,"October 8–11, 2026",500 (LV),± 4.4%,47.0,49.0,2026-10-11,LV,500.0,,Suffolk University,,2.0,4.0,23
+ME,Rasmussen Reports (R),"October 5–8, 2026",804 (LV),± 3.0%,47.0,49.0,2026-10-08,LV,804.0,R,Rasmussen Reports,,2.0,4.0,26
+ME,The Washington Post/SSPG,"September 30 – October 5, 2026",800 (LV),± 3.6%,46.0,50.0,2026-10-05,LV,800.0,,The Washington Post/SSPG,,4.0,3.0,29
+ME,Marist University,"October 1–4, 2026","1,505 (RV)",± 3.8%,47.0,51.0,2026-10-04,RV,1505.0,,Marist University,,4.0,1.0,30
+ME,Trafalgar Group (R),"September 29 – October 1, 2026","1,091 (LV)",± 2.9%,46.0,46.0,2026-10-01,LV,1091.0,R,Trafalgar Group,,0.0,8.0,33
+ME,CBS News/YouGov,"September 23 – October 1, 2026","1,136 (LV)",± 4.7%,50.0,50.0,2026-10-01,LV,1136.0,,CBS News/YouGov,,0.0,0.0,33
+ME,co/efficient (R),"September 28–30, 2026","1,240 (LV)",± 2.8%,48.0,46.0,2026-09-30,LV,1240.0,R,co/efficient,,-2.0,6.0,34
+ME,Maine People's Resource Center,"September 25–29, 2026",684 (LV),± 3.8%,47.0,49.0,2026-09-29,LV,684.0,,Maine People's Resource Center,,2.0,4.0,35
+ME,InsiderAdvantage (R),"September 22–23, 2026","1,200 (LV)",± 2.8%,46.0,46.0,2026-09-23,LV,1200.0,R,InsiderAdvantage,,0.0,5.0,41
+ME,Fabrizio Ward (R)/ Impact Research (D),"September 20–22, 2026",982 (LV),± 3.1%,47.0,50.0,2026-09-22,LV,982.0,,Fabrizio Ward/ Impact Research,,3.0,3.0,42
+ME,New York Times/Siena University,"September 15–22, 2026",619 (LV),± 4.9%,49.0,46.0,2026-09-22,LV,619.0,,New York Times/Siena University,,-3.0,5.0,42
+ME,University of New Hampshire,"September 17–21, 2026","1,312 (LV)",± 2.7%,47.0,51.0,2026-09-21,LV,1312.0,,University of New Hampshire,,4.0,1.0,43
+ME,Quantus Insights (R),"September 14–15, 2026",621 (LV),± 4.3%,48.0,47.0,2026-09-15,LV,621.0,R,Quantus Insights,,-1.0,4.5,49
+ME,University of Massachusetts/YouGov,"August 28 – September 14, 2026",650 (LV),± 4.7%,43.0,48.0,2026-09-14,LV,650.0,,University of Massachusetts/YouGov,,5.0,9.0,50
+ME,Rasmussen Reports (R),"September 8–10, 2026","1,033 (LV)",± 3.0%,45.0,46.0,2026-09-10,LV,1033.0,R,Rasmussen Reports,,1.0,9.0,54
+ME,YouGov,"September 2–8, 2026","1,335 (LV)",± 4.9%,44.0,48.0,2026-09-08,LV,1335.0,,YouGov,,4.0,6.0,56
+ME,SSRS,"August 31 – September 6, 2026",880 (LV),± 3.7%,45.0,48.0,2026-09-06,LV,880.0,,SSRS,,3.0,7.0,58
+ME,Abacus Data,"August 26–28, 2026",327 (LV),—,43.0,52.0,2026-08-28,LV,327.0,,Abacus Data,,9.0,5.0,67
+ME,Beacon Research (D)/ Shaw & Co. Research (R),"August 6–10, 2026","1,000 (RV)",± 3.0%,46.0,48.0,2026-08-10,RV,1000.0,,Beacon Research/ Shaw & Co. Research,,2.0,5.0,85
+ME,Hart Research (D),"July 27 – August 1, 2026",802 (LV),± 3.5%,45.0,49.0,2026-08-01,LV,802.0,D,Hart Research,,4.0,6.0,94
+ME,University of New Hampshire,"July 15–20, 2026","1,178 (LV)",± 2.9%,46.0,49.0,2026-07-20,LV,1178.0,,University of New Hampshire,,3.0,3.0,106
+ME,Z to A Research (D),"July 7–8, 2026",988 (LV),± 3.1%,48.0,47.0,2026-07-08,LV,988.0,D,Z to A Research,,-1.0,5.0,118
+ME,Public Policy Polling (D),"July 7, 2026",785 (LV),—,44.0,49.0,2026-07-07,LV,785.0,D,Public Policy Polling,,5.0,7.0,119
+MI,Research Co.,"October 30 – November 1, 2026",450 (LV),± 4.6%,46.0,48.0,2026-11-01,LV,450.0,,Research Co.,,2.0,5.0,2
+MI,New York Times/Siena University,"October 23 – November 1, 2026","1,011 (LV)",± 3.8%,42.0,53.0,2026-11-01,LV,1011.0,,New York Times/Siena University,,11.0,6.0,2
+MI,Rasmussen Reports (R),"October 28–29, 2026",745 (LV),± 3.0%,44.0,49.0,2026-10-29,LV,745.0,R,Rasmussen Reports,,5.0,4.0,5
+MI,YouGov,"October 26–29, 2026","2,093 (LV)",± 3.0%,47.0,51.0,2026-10-29,LV,2093.0,,YouGov,,4.0,1.0,5
+MI,Upswing Research (D),"October 24–28, 2026",505 (LV),± 4.4%,45.0,50.0,2026-10-28,LV,505.0,D,Upswing Research,,5.0,5.0,6
+MI,Mitchell Research & Communications,"October 26–27, 2026",636 (LV),± 3.9%,44.0,51.0,2026-10-27,LV,636.0,,Mitchell Research & Communications,,7.0,3.0,7
+MI,SSRS,"October 20–27, 2026",768 (LV),± 4.7%,42.0,49.0,2026-10-27,LV,768.0,,SSRS,,7.0,1.0,7
+MI,Data for Progress (D),"October 23–25, 2026",622 (LV),± 4.0%,46.0,50.0,2026-10-25,LV,622.0,D,Data for Progress,,4.0,3.0,9
+MI,RedBox Research (D),"October 20–23, 2026","2,696 (LV)",± 3.5%,44.0,49.0,2026-10-23,LV,2696.0,D,RedBox Research,,5.0,3.0,11
+MI,Michigan State University/Verasight,"October 8–23, 2026","1,383 (LV)",± 2.9%,43.0,51.0,2026-10-23,LV,1383.0,,Michigan State University/Verasight,,7.0,8.0,11
+MI,InsiderAdvantage (R),"October 21–22, 2026","1,200 (LV)",± 2.8%,46.0,47.0,2026-10-22,LV,1200.0,R,InsiderAdvantage,,1.0,3.0,12
+MI,Glengariff Group,"October 19–22, 2026",600 (LV),± 4.0%,45.0,51.0,2026-10-22,LV,600.0,,Glengariff Group,,6.0,4.0,12
+MI,Michigan State University/YouGov,"October 2–19, 2026",836 (LV),± 4.4%,46.0,48.0,2026-10-19,LV,836.0,,Michigan State University/YouGov,,3.0,7.5,15
+MI,Marist University,"October 15–18, 2026",— (LV),± 4.3%,48.0,50.0,2026-10-18,LV,,,Marist University,,2.0,2.0,16
+MI,Rasmussen Reports (R),"October 12–14, 2026",798 (LV),± 3.0%,44.0,46.0,2026-10-14,LV,798.0,R,Rasmussen Reports,,2.0,5.0,20
+MI,InsiderAdvantage (R),"October 9–10, 2026","1,200 (LV)",± 2.8%,46.0,48.0,2026-10-10,LV,1200.0,R,InsiderAdvantage,,2.0,5.0,24
+MI,The Tyson Group (R),"October 6–8, 2026",600 (LV),—,46.0,44.0,2026-10-08,LV,600.0,R,The Tyson Group,,-2.0,10.0,26
+MI,Quantus Insights (R),"October 5–6, 2026",762 (LV),± 3.9%,47.0,48.0,2026-10-06,LV,762.0,R,Quantus Insights,,1.5,2.0,28
+MI,YouGov,"September 22 – October 4, 2026","3,949 (LV)",± 2.5%,48.0,49.0,2026-10-04,LV,3949.0,,YouGov,,1.0,2.0,30
+MI,Mitchell Research & Communications,"October 1, 2026",682 (LV),± 3.8%,41.0,46.0,2026-10-01,LV,682.0,,Mitchell Research & Communications,,5.0,6.0,33
+MI,Z to A Research (D),"September 28 – October 1, 2026",483 (LV),–,42.0,49.0,2026-10-01,LV,483.0,D,Z to A Research,,7.0,3.0,33
+MI,Trafalgar Group (R),"September 28–30, 2026","1,085 (LV)",± 2.9%,45.0,47.0,2026-09-30,LV,1085.0,R,Trafalgar Group,,2.0,5.0,34
+MI,Beacon Research (D)/ Shaw & Co. Research (R),"September 24–28, 2026","1,028 (LV)",± 3.0%,49.0,50.0,2026-09-28,LV,1028.0,,Beacon Research/ Shaw & Co. Research,,1.0,1.0,36
+MI,The Tyson Group (R),"September 24–27, 2026",600 (LV),—,43.0,44.0,2026-09-27,LV,600.0,R,The Tyson Group,,1.0,12.0,37
+MI,Marist University,"September 24–27, 2026","1,235 (RV)",± 3.8%,44.0,51.0,2026-09-27,RV,1235.0,,Marist University,,7.0,3.0,37
+MI,Guidant Polling & Strategy,"September 20–27, 2026",800 (LV),± 3.5%,43.0,48.0,2026-09-27,LV,800.0,,Guidant Polling & Strategy,,4.5,6.5,37
+MI,Big Data Poll (R),"September 22–24, 2026",678 (LV),± 4.0%,42.0,47.0,2026-09-24,LV,678.0,R,Big Data Poll,,5.5,12.5,40
+MI,co/efficient (R),"September 21–23, 2026",843 (LV),± 3.4%,45.0,45.0,2026-09-23,LV,843.0,R,co/efficient,,0.0,4.0,41
+MI,GBAO (D),"September 19–22, 2026",800 (LV),—,44.0,48.0,2026-09-22,LV,800.0,D,GBAO,,4.0,8.0,42
+MI,New York Times/Siena University,"September 15–22, 2026",605 (LV),± 4.9%,44.0,49.0,2026-09-22,LV,605.0,,New York Times/Siena University,,5.0,7.0,42
+MI,Cygnal (R)/Beacon Research (D),"September 18–21, 2026",600 (LV),± 4.0%,40.0,45.0,2026-09-21,LV,600.0,,Cygnal/Beacon Research,,5.0,13.0,43
+MI,Suffolk University,"September 16–20, 2026",500 (LV),± 4.4%,40.0,47.0,2026-09-20,LV,500.0,,Suffolk University,,7.0,8.0,44
+MI,Torchlight Strategies (R),"September 15–19, 2026",643 (LV),± 4.7%,44.0,43.0,2026-09-19,LV,643.0,R,Torchlight Strategies,,-1.0,9.0,45
+MI,InsiderAdvantage (R),"September 16–17, 2026","1,200 (LV)",± 2.8%,45.0,47.0,2026-09-17,LV,1200.0,R,InsiderAdvantage,,2.0,5.0,47
+MI,Emerson College,"September 12–14, 2026","1,000 (LV)",± 3.0%,46.0,48.0,2026-09-14,LV,1000.0,,Emerson College,,2.0,4.0,50
+MI,The Washington Post/SSPG,"September 10–14, 2026",803 (LV),± 3.9%,45.0,48.0,2026-09-14,LV,803.0,,The Washington Post/SSPG,,3.0,2.0,50
+MI,Trafalgar Group (R),"September 7–9, 2026","1,079 (LV)",± 2.9%,45.0,46.0,2026-09-09,LV,1079.0,R,Trafalgar Group,,1.0,7.0,55
+MI,SSRS,"August 31 – September 6, 2026",843 (LV),± 4.1%,44.0,47.0,2026-09-06,LV,843.0,,SSRS,,3.0,9.0,58
+MI,Glengariff Group,"August 31 – September 3, 2026",600 (LV),± 4.0%,46.0,44.0,2026-09-03,LV,600.0,,Glengariff Group,,-2.0,9.0,61
+MI,Abacus Data,"August 26–28, 2026",332 (LV),—,45.0,49.0,2026-08-28,LV,332.0,,Abacus Data,,4.0,6.0,67
+MI,EPIC-MRA,"August 22–28, 2026",600 (LV),± 4.0%,45.0,50.0,2026-08-28,LV,600.0,,EPIC-MRA,,4.5,7.5,67
+MI,Michigan State University/YouGov,"August 10–20, 2026",779 (LV),± 3.4%,45.0,50.0,2026-08-20,LV,779.0,,Michigan State University/YouGov,,5.0,5.0,75
+MI,Susquehanna Polling & Research (R),"August 11–17, 2026",800 (LV),± 3.5%,39.0,46.0,2026-08-17,LV,800.0,R,Susquehanna Polling & Research,,7.0,9.0,78
+MI,Fabrizio Ward (R)/ Impact Research (D),"August 9–11, 2026",877 (LV),± 3.3%,47.0,48.0,2026-08-11,LV,877.0,,Fabrizio Ward/ Impact Research,,1.0,5.0,84
+MI,TIPP Insights (R),"August 6–10, 2026","1,215 (LV)",± 2.7%,42.0,45.0,2026-08-10,LV,1215.0,R,TIPP Insights,,3.0,6.0,85
+MI,GBAO (D),"August 6–10, 2026",800 (LV),± 3.5%,44.0,50.0,2026-08-10,LV,800.0,D,GBAO,,6.0,6.0,85
+MI,Beacon Research (D)/ Shaw & Co. Research (R),"August 6–10, 2026","1,006 (RV)",± 3.0%,51.0,47.0,2026-08-10,RV,1006.0,,Beacon Research/ Shaw & Co. Research,,-4.0,2.0,85
+MI,EPIC-MRA,"July 24–31, 2026",600 (LV),± 4.0%,46.0,43.0,2026-07-31,LV,600.0,,EPIC-MRA,,-3.0,11.0,95
+MI,SoCal Strategies (R),"July 28–30, 2026",640 (LV),± 3.8%,42.0,41.0,2026-07-30,LV,640.0,R,SoCal Strategies,,-1.0,17.0,96
+MI,Mitchell Research & Communications,"July 28–29, 2026",672 (LV),± 3.8%,45.0,45.0,2026-07-29,LV,672.0,,Mitchell Research & Communications,,0.0,10.0,97
+MI,Glengariff Group,"July 22–24, 2026",600 (LV),± 4.0%,49.0,39.0,2026-07-24,LV,600.0,,Glengariff Group,,-10.0,11.0,102
+MI,Quantus Insights (R),"June 29–30, 2026",947 (LV),± 3.3%,44.0,45.0,2026-06-30,LV,947.0,R,Quantus Insights,,1.0,8.0,126
+MI,Data for Progress (D),"June 15–22, 2026",709 (LV),± 4.0%,46.0,47.0,2026-06-22,LV,709.0,D,Data for Progress,,1.0,7.0,134
+MI,Zenith Research (D),"June 11–14, 2026",602 (LV),± 4.0%,42.0,45.0,2026-06-14,LV,602.0,D,Zenith Research,,3.0,13.0,142
+MI,Mitchell Research & Communications,"June 11–13, 2026",827 (LV),± 3.4%,42.0,47.0,2026-06-13,LV,827.0,,Mitchell Research & Communications,,5.0,11.0,143
+MI,Tulchin Research (D),"June 2–4, 2026",500 (LV),± 4.4%,41.0,46.0,2026-06-04,LV,500.0,D,Tulchin Research,,5.0,13.0,152
+MI,TIPP Insights (R),"May 20–23, 2026","1,163 (LV)",± 3.0%,42.0,43.0,2026-05-23,LV,1163.0,R,TIPP Insights,,1.0,9.0,164
+MI,Mitchell Research,"May 1–7, 2026",607 (LV),± 6.0%,42.0,41.0,2026-05-07,LV,607.0,,Mitchell Research,,-1.0,17.0,180
+MI,Glengariff Group,"April 28 – May 1, 2026",600 (LV),± 4.0%,45.0,40.0,2026-05-01,LV,600.0,,Glengariff Group,,-4.0,14.0,186
+MI,Emerson College,"January 24–25, 2026","1,000 (LV)",± 3.0%,43.0,43.0,2026-01-25,LV,1000.0,,Emerson College,,0.0,14.0,282
+MI,Glengariff Group,"January 2–6, 2026",600 (LV),± 4.0%,43.0,47.0,2026-01-06,LV,600.0,,Glengariff Group,,-1.0,10.0,301
+MI,Mitchell Research & Communications,"November 18–21, 2025",616 (LV),± 3.7%,41.0,38.0,2025-11-21,LV,616.0,,Mitchell Research & Communications,,-3.0,22.0,347
+MI,Rosetta Stone Communications (R),"October 23–25, 2025",637 (LV),± 3.9%,45.0,31.0,2025-10-25,LV,637.0,R,Rosetta Stone Communications,,-14.0,24.0,374
+MI,Glengariff Group,"May 5–8, 2025",600 (RV),± 4.0%,47.0,41.0,2025-05-08,RV,600.0,,Glengariff Group,,-4.0,10.0,544
+MN,Research Co.,"October 30 – November 1, 2026",450 (LV),± 4.6%,43.0,48.0,2026-11-01,LV,450.0,,Research Co.,,5.0,7.0,2
+MN,InsiderAdvantage (R),"October 29–30, 2026","1,200 (LV)",± 2.8%,46.0,49.0,2026-10-30,LV,1200.0,R,InsiderAdvantage,,3.0,1.0,4
+MN,KSTP/SurveyUSA,"October 24–28, 2026",714 (LV),± 4.2%,41.0,48.0,2026-10-28,LV,714.0,,KSTP/SurveyUSA,,7.0,7.0,6
+MN,New York Times/Siena University,"October 19–26, 2026",752 (LV),± 4.1%,40.0,54.0,2026-10-26,LV,752.0,,New York Times/Siena University,,14.0,5.0,8
+MN,Victory Insights (R),"October 21–22, 2026","1,194 (LV)",—,44.0,48.0,2026-10-22,LV,1194.0,R,Victory Insights,,4.0,6.0,12
+MN,Rasmussen Reports (R),"October 20–21, 2026","1,182 (LV)",± 3.0%,45.0,48.0,2026-10-21,LV,1182.0,R,Rasmussen Reports,,3.0,7.0,13
+MN,Trafalgar Group (R),"October 13–15, 2026","1,079 (LV)",± 2.9%,45.0,48.0,2026-10-15,LV,1079.0,R,Trafalgar Group,,3.0,5.0,19
+MN,KSTP/SurveyUSA,"October 8–12, 2026",718 (LV),± 4.2%,42.0,45.0,2026-10-12,LV,718.0,,KSTP/SurveyUSA,,3.0,9.0,22
+MN,Mason-Dixon Polling & Strategy,"October 5–7, 2026",800 (LV),± 3.5%,43.0,47.0,2026-10-07,LV,800.0,,Mason-Dixon Polling & Strategy,,4.0,9.0,27
+MN,Rasmussen Reports (R),"October 5–7, 2026",856 (LV),± 3.0%,45.0,48.0,2026-10-07,LV,856.0,R,Rasmussen Reports,,3.0,7.0,27
+MN,Morning Consult,"October 2–7, 2026","1,000 (RV)",± 3.1%,41.0,45.0,2026-10-07,RV,1000.0,,Morning Consult,,4.0,12.0,27
+MN,GQR (D),"October 1–4, 2026",800 (LV),± 3.5%,44.0,53.0,2026-10-04,LV,800.0,D,GQR,,8.5,3.0,30
+MN,Big Data Poll (R),"September 29–30, 2026",622 (LV),± 4.0%,38.0,40.0,2026-09-30,LV,622.0,R,Big Data Poll,,2.0,12.5,34
+MN,InsiderAdvantage (R),"September 28–29, 2026","1,200 (LV)",± 3.0%,45.0,46.0,2026-09-29,LV,1200.0,R,InsiderAdvantage,,1.0,6.0,35
+MN,co/efficient (R),"September 14–15, 2026",833 (LV),± 3.4%,42.0,43.0,2026-09-15,LV,833.0,R,co/efficient,,1.0,11.0,49
+MN,KSTP/SurveyUSA,"September 9–14, 2026",654 (LV),± 4.4%,42.0,42.0,2026-09-14,LV,654.0,,KSTP/SurveyUSA,,0.0,12.0,50
+MN,Quantus Insights (R),"September 8–10, 2026",720 (LV),± 4.2%,44.0,48.0,2026-09-10,LV,720.0,R,Quantus Insights,,4.0,7.0,54
+MN,TIPP Insights (R),"August 31 – September 2, 2026","1,201 (LV)",± 3.0%,42.0,44.0,2026-09-02,LV,1201.0,R,TIPP Insights,,2.0,8.0,62
+MN,Deep Root Analytics (R),"August 17–18, 2026",597 (RV),± 4.0%,45.0,50.0,2026-08-18,RV,597.0,R,Deep Root Analytics,,5.0,5.0,77
+MN,KTSP/SurveyUSA,"August 13–17, 2026",661 (LV),± 4.3%,41.0,46.0,2026-08-17,LV,661.0,,KTSP/SurveyUSA,,5.0,11.0,78
+MN,Impact Research (D),"May 26–28, 2026",808 (LV),± 3.5%,44.0,51.0,2026-05-28,LV,808.0,D,Impact Research,,7.0,7.0,159
+MN,Emerson College,"February 6–8, 2026","1,000 (LV)",± 3.0%,41.0,47.0,2026-02-08,LV,1000.0,,Emerson College,,6.0,8.0,268
+MN,Impact Research (D),"July 8–11, 2025",604 (LV),± 4.0%,45.0,48.0,2025-07-11,LV,604.0,D,Impact Research,,3.0,7.0,480
+MS,Change Research (D),"October 21–22, 2026",842 (LV),± 3.5%,43.0,40.0,2026-10-22,LV,842.0,D,Change Research,,-3.0,9.0,12
+MS,Data for Progress (D),"August 5–15, 2026","1,018 (LV)",± 3.0%,44.0,38.0,2026-08-15,LV,1018.0,D,Data for Progress,,-6.0,11.5,80
+MS,Impact Research (D),"April 8–12, 2026",500 (LV),± 4.4%,42.0,39.0,2026-04-12,LV,500.0,D,Impact Research,,-3.0,11.0,205
+MS,Impact Research (D),"June 18–22, 2025",500 (RV),± 4.4%,51.0,38.0,2025-06-22,RV,500.0,D,Impact Research,,-13.0,11.0,499
+MT,Concord Public Opinion Partners (D),"October 22–23, 2026",410 (LV),± 4.8%,38.0,39.0,2026-10-23,LV,410.0,D,Concord Public Opinion Partners,,1.0,11.0,11
+MT,Montana State University Billings,"October 5–21, 2026",720 (A),± 3.7%,30.0,26.0,2026-10-21,A,720.0,,Montana State University Billings,,-4.0,17.0,13
+MT,Quantus Insights (R),"October 15–18, 2026",667 (LV),± 4.0%,46.0,29.0,2026-10-18,LV,667.0,R,Quantus Insights,,-16.333333333333332,6.333333333333333,16
+MT,Peak Insights (R),"October 7–12, 2026",500 (LV),± 4.0%,44.0,29.0,2026-10-12,LV,500.0,R,Peak Insights,,-15.0,12.0,22
+MT,Concord Public Opinion Partners (D),"October 6–8, 2026",405 (LV),± 4.9%,35.0,37.0,2026-10-08,LV,405.0,D,Concord Public Opinion Partners,,2.0,13.0,26
+MT,American Pulse Research,"September 19–24, 2026",604 (LV),—,45.0,26.0,2026-09-24,LV,604.0,,American Pulse Research,,-19.0,7.0,40
+MT,Quantus Insights (R),"September 14–15, 2026",625 (LV),± 4.3%,44.0,24.0,2026-09-15,LV,625.0,R,Quantus Insights,,-20.0,7.0,49
+MT,Aspect Strategic,"September 7–15, 2026",715 (LV),—,44.0,32.0,2026-09-15,LV,715.0,,Aspect Strategic,,-12.0,7.0,49
+MT,Rutgers-Eagleton,"August 27 – September 7, 2026",845 (RV),± 4.2%,38.0,30.0,2026-09-07,RV,845.0,,Rutgers-Eagleton,,-8.0,12.0,57
+MT,Peak Insights (R),"August 23–25, 2026",600 (LV),± 4.0%,44.0,22.0,2026-08-25,LV,600.0,R,Peak Insights,,-22.0,13.0,70
+MT,Hart Research (D),"August 1–4, 2026",800 (LV),—,45.0,30.0,2026-08-04,LV,800.0,D,Hart Research,,-7.5,6.0,91
+MT,Tavern Research (D),"July 23–27, 2026",517 (LV),± 5.0%,49.0,25.0,2026-07-27,LV,517.0,D,Tavern Research,,-13.25,7.25,99
+MT,GQR (D),"July 23–26, 2026",500 (LV),± 4.4%,41.0,27.0,2026-07-26,LV,500.0,D,GQR,,-1.3333333333333333,5.0,100
+MT,Bullfinch Group (R),"July 13–16, 2026",793 (LV),± 3.48%,36.0,24.0,2026-07-16,LV,793.0,R,Bullfinch Group,,-12.0,18.0,110
+MT,GrayHouse (R),"June 23–24, 2026",500 (RV),± 4.4%,41.0,17.0,2026-06-24,RV,500.0,R,GrayHouse,,-24.0,13.0,132
+MT,Hart Research (D),"June 18–24, 2026",800 (LV),—,47.0,25.0,2026-06-24,LV,800.0,D,Hart Research,,-12.0,7.0,132
+MT,Tavern Research (D),"June 16–19, 2026",400 (LV),± 6.1%,49.0,24.0,2026-06-19,LV,400.0,D,Tavern Research,,-12.5,6.0,137
+MT,Public Opinion Strategies (R),"June 8–11, 2026",500 (LV),± 4.4%,44.0,20.0,2026-06-11,LV,500.0,R,Public Opinion Strategies,,-24.0,7.0,145
+MT,Tavern Research (D),"May 13–18, 2026",607 (LV),± 5.1%,50.0,50.0,2026-05-18,LV,607.0,D,Tavern Research,,-10.0,6.0,169
+MT,Change Research (D),"March 17–20, 2026",616 (LV),± 4.2%,37.0,35.0,2026-03-20,LV,616.0,D,Change Research,,-2.0,26.0,228
+NC,East Carolina University,"October 26–29, 2026","1,041 (LV)",± 3.5%,45.0,54.0,2026-10-29,LV,1041.0,,East Carolina University,,9.0,1.0,5
+NC,YouGov,"October 26–29, 2026","2,130 (LV)",± 2.9%,44.0,55.0,2026-10-29,LV,2130.0,,YouGov,,11.0,1.0,5
+NC,Quantus Insights (R),"October 24–25, 2026",722 (LV),± 4.0%,43.0,51.0,2026-10-25,LV,722.0,R,Quantus Insights,,8.75,2.5,9
+NC,RedBox Research (D),"October 20–23, 2026","3,292 (LV)",± 3.7%,43.0,50.0,2026-10-23,LV,3292.0,D,RedBox Research,,7.0,3.0,11
+NC,Harper Polling (R),"October 18–20, 2026",600 (LV),± 4.0%,39.0,49.0,2026-10-20,LV,600.0,R,Harper Polling,,10.0,7.0,14
+NC,ActiVote,"October 8–20, 2026",400 (LV),± 4.9%,43.0,57.0,2026-10-20,LV,400.0,,ActiVote,,14.0,0.0,14
+NC,High Point University/YouGov,"October 1–20, 2026",620 (LV),± 4.7%,40.0,54.0,2026-10-20,LV,620.0,,High Point University/YouGov,,14.0,6.0,14
+NC,SurveyUSA,"October 7–11, 2026",643 (LV),± 5.0%,40.0,54.0,2026-10-11,LV,643.0,,SurveyUSA,,14.0,5.0,23
+NC,Trafalgar Group (R),"October 8–10, 2026","1,091 (LV)",± 2.9%,41.0,49.0,2026-10-10,LV,1091.0,R,Trafalgar Group,,8.0,7.0,24
+NC,Change Research (D),"October 1–7, 2026",829 (LV),± 3.7%,40.0,50.0,2026-10-07,LV,829.0,D,Change Research,,10.0,10.0,27
+NC,Elon University/YouGov,"September 29 – October 8, 2026",561 (LV),± 4.9%,39.0,52.0,2026-10-08,LV,561.0,,Elon University/YouGov,,13.0,6.0,26
+NC,East Carolina University,"September 30 – October 3, 2026",810 (LV),± 4.0%,43.0,50.0,2026-10-03,LV,810.0,,East Carolina University,,7.0,3.5,31
+NC,Big Data Poll,"September 27–29, 2026",642 (LV),± 4.0%,35.0,47.0,2026-09-29,LV,642.0,,Big Data Poll,,12.0,11.0,35
+NC,Quantus Insights (R),"September 21–22, 2026",686 (LV),± 4.2%,43.0,48.0,2026-09-22,LV,686.0,R,Quantus Insights,,5.0,4.0,42
+NC,Fabrizio Ward (R)/ Impact Research (D),"September 17–20, 2026","1,806 (LV)",± 2.9%,42.0,53.0,2026-09-20,LV,1806.0,,Fabrizio Ward/ Impact Research,,11.0,5.0,44
+NC,Opinion Diagnostics,"September 17–20, 2026",857 (LV),± 3.3%,41.0,51.0,2026-09-20,LV,857.0,,Opinion Diagnostics,,9.0,4.0,44
+NC,YouGov,"September 15–18, 2026","3,742 (LV)",± 2.6%,41.0,53.0,2026-09-18,LV,3742.0,,YouGov,,12.5,4.0,46
+NC,InsiderAdvantage (R),"September 16–17, 2026","1,200 (LV)",± 4.0%,43.0,48.0,2026-09-17,LV,1200.0,R,InsiderAdvantage,,5.0,6.0,47
+NC,High Point University,"September 9–16, 2026",706 (LV),± 3.9%,42.0,50.0,2026-09-16,LV,706.0,,High Point University,,8.0,5.0,48
+NC,Harper Polling (R),"September 13–15, 2026",608 (LV),± 4.0%,34.0,49.0,2026-09-15,LV,608.0,R,Harper Polling,,15.0,12.0,49
+NC,Catawba College/YouGov,"September 4–15, 2026",885 (LV),–,35.0,47.0,2026-09-15,LV,885.0,,Catawba College/YouGov,,11.5,11.5,49
+NC,The Trafalgar Group (R),"September 8–10, 2026","1,084 (LV)",± 2.9%,42.0,48.0,2026-09-10,LV,1084.0,R,The Trafalgar Group,,6.0,7.0,54
+NC,East Carolina University,"August 31 – September 3, 2026",675 (LV),± 4.4%,39.0,46.0,2026-09-03,LV,675.0,,East Carolina University,,7.5,9.0,61
+NC,Elon University/YouGov,"August 21–31, 2026",565 (LV),± 5.6%,38.0,49.0,2026-08-31,LV,565.0,,Elon University/YouGov,,11.0,8.0,64
+NC,High Point University/YouGov,"August 3–12, 2026",660 (LV),± 3.8%,45.0,50.0,2026-08-12,LV,660.0,,High Point University/YouGov,,5.0,3.0,83
+NC,Harper Polling (R),"August 9–10, 2026",600 (LV),± 4.0%,39.0,52.0,2026-08-10,LV,600.0,R,Harper Polling,,13.0,5.0,85
+NC,Change Research (D),"August 3–6, 2026",915 (LV),± 3.5%,43.0,50.0,2026-08-06,LV,915.0,D,Change Research,,7.0,7.0,89
+NC,Change Research (D),"July 29 – August 1, 2026",967 (V),± 3.4%,41.0,50.0,2026-08-01,V,967.0,D,Change Research,,9.0,9.0,94
+NC,Elon University/YouGov,"July 23–31, 2026",466 (LV),± 5.6%,42.0,53.0,2026-07-31,LV,466.0,,Elon University/YouGov,,11.0,2.0,95
+NC,Beacon Research (D)/ Shaw & Co. Research (R),"July 23–27, 2026","1,005 (RV)",± 3.0%,44.0,53.0,2026-07-27,RV,1005.0,,Beacon Research/ Shaw & Co. Research,,9.0,3.0,99
+NC,Public Policy Polling (D),"July 10–11, 2026",759 (LV),± 3.6%,44.0,48.0,2026-07-11,LV,759.0,D,Public Policy Polling,,4.0,8.0,115
+NC,New York Times/Siena University,"June 15–27, 2026",601 (LV),± 4.7%,43.0,50.0,2026-06-27,LV,601.0,,New York Times/Siena University,,7.0,6.0,129
+NC,Catawba College/YouGov,"June 1–10, 2026",905 (LV),± 3.8%,34.0,48.0,2026-06-10,LV,905.0,,Catawba College/YouGov,,14.0,18.0,146
+NC,Harper Polling (R),"May 10–11, 2026",600 (LV),± 4.0%,39.0,50.0,2026-05-11,LV,600.0,R,Harper Polling,,11.0,11.0,176
+NC,Change Research (D),"May 4–8, 2026",957 (LV),± 3.3%,42.0,49.0,2026-05-08,LV,957.0,D,Change Research,,7.0,9.0,179
+NC,Opinion Diagnostics (R),"April 21–24, 2026",830 (V),± 3.5%,41.0,50.0,2026-04-24,V,830.0,R,Opinion Diagnostics,,9.0,9.0,193
+NC,High Point University/YouGov,"March 26 – April 6, 2026",703 (LV),± 4.3%,42.0,50.0,2026-04-06,LV,703.0,,High Point University/YouGov,,8.0,6.0,211
+NC,Quantus Insights (R),"March 31 – April 1, 2026",987 (LV),± 3.5%,44.0,49.0,2026-04-01,LV,987.0,R,Quantus Insights,,5.0,6.0,216
+NC,Harper Polling (R),"March 22–23, 2026",600 (LV),± 4.0%,41.0,49.0,2026-03-23,LV,600.0,R,Harper Polling,,8.0,6.0,225
+NC,Catawba College/YouGov,"March 9–18, 2026","1,000 (LV)",± 3.6%,34.0,48.0,2026-03-18,LV,1000.0,,Catawba College/YouGov,,14.0,14.0,230
+NC,Public Policy Polling (D),"March 13–14, 2026",556 (V),± 4.2%,44.0,47.0,2026-03-14,V,556.0,D,Public Policy Polling,,3.0,9.0,234
+NC,Nexus Strategies/ Strategic Partners Solutions,"March 8–9, 2026",800 (RV),± 3.5%,32.0,50.0,2026-03-09,RV,800.0,,Nexus Strategies/ Strategic Partners Solutions,,18.0,14.0,239
+NC,Change Research (D),"January 31–February 4, 2026","1,069 (RV)",± 3.1%,40.0,50.0,2026-02-04,RV,1069.0,D,Change Research,,10.0,7.0,272
+NC,TIPP Insights (R),"January 12–15, 2026","1,512 (RV)",± 2.7%,24.0,48.0,2026-01-15,RV,1512.0,R,TIPP Insights,,24.0,27.0,292
+NC,Change Research (D),"January 5–7, 2026","1,105 (LV)",± 3.5%,42.0,47.0,2026-01-07,LV,1105.0,D,Change Research,,5.0,9.0,300
+NC,Harper Polling (R),"November 9–10, 2025",600 (LV),± 4.0%,39.0,47.0,2025-11-10,LV,600.0,R,Harper Polling,,8.0,10.0,358
+NC,Harper Polling (R),"September 14–15, 2025",600 (RV),± 4.0%,42.0,46.0,2025-09-15,RV,600.0,R,Harper Polling,,4.0,8.0,414
+NC,Change Research (D),"September 2–8, 2025",855 (LV),± 3.6%,41.0,48.0,2025-09-08,LV,855.0,D,Change Research,,7.0,11.0,421
+NC,Harper Polling (R),"August 11–12, 2025",600 (RV),± 4.0%,39.0,47.0,2025-08-12,RV,600.0,R,Harper Polling,,8.0,10.0,448
+NC,Emerson College,"July 28–30, 2025","1,000 (RV)",± 3.0%,41.0,47.0,2025-07-30,RV,1000.0,,Emerson College,,6.0,12.0,461
+NC,Victory Insights (R),"July 28–30, 2025",600 (LV),—,40.0,43.0,2025-07-30,LV,600.0,R,Victory Insights,,1.5,14.0,461
+NE,YouGov,"October 26–29, 2026","1,979 (LV)",± 2.8%,49.0,49.0,2026-10-29,LV,1979.0,,YouGov,,0.0,0.0,5
+NE,National Public Affairs (R),"October 25–29, 2026",800 (LV),± 3.5%,48.0,45.0,2026-10-29,LV,800.0,R,National Public Affairs,,-2.0,3.5,5
+NE,New York Times/Siena University,"October 23–29, 2026",809 (LV),± 4.0%,49.0,43.0,2026-10-29,LV,809.0,,New York Times/Siena University,,-6.0,8.0,5
+NE,Echelon Insights (R),"October 16–23, 2026",407 (LV),± 6.3%,47.0,46.0,2026-10-23,LV,407.0,R,Echelon Insights,,-1.0,3.0,11
+NE,GBAO (D),"October 18–22, 2026",800 (LV),± 3.5%,45.0,46.0,2026-10-22,LV,800.0,D,GBAO,,1.0,7.0,12
+NE,Concord Public Opinion Partners (D),"October 15–18, 2026",500 (LV),± 4.4%,41.0,48.0,2026-10-18,LV,500.0,D,Concord Public Opinion Partners,,7.0,5.0,16
+NE,Impact Research (D),"October 14–20, 2026",600 (LV),± 4.0%,49.0,47.0,2026-10-20,LV,600.0,D,Impact Research,,-2.0,1.0,14
+NE,National Public Affairs (R),"October 15–18, 2026",598 (LV),± 4.0%,46.0,43.0,2026-10-18,LV,598.0,R,National Public Affairs,,-3.0,4.0,16
+NE,National Public Affairs (R),"October 2–5, 2026",800 (LV),± 4.0%,46.0,43.0,2026-10-05,LV,800.0,R,National Public Affairs,,-3.0,5.5,29
+NE,YouGov,"September 24 – October 3, 2026","1,809 (LV)",± 3.3%,47.0,48.0,2026-10-03,LV,1809.0,,YouGov,,1.0,3.0,31
+NE,co/efficient (R),"September 28–30, 2026","1,113 (LV)",± 2.92%,45.0,40.0,2026-09-30,LV,1113.0,R,co/efficient,,-5.0,9.5,34
+NE,SurveyUSA,"September 8–13, 2026",503 (LV),± 6.4%,42.0,46.0,2026-09-13,LV,503.0,,SurveyUSA,,4.0,7.0,51
+NE,GBAO (D),"September 3–8, 2026",800 (LV),± 3.5%,46.0,47.0,2026-09-08,LV,800.0,D,GBAO,,1.0,7.0,56
+NE,Impact Research (D),"August 9–13, 2026",600 (LV),± 4.0%,47.0,47.0,2026-08-13,LV,600.0,D,Impact Research,,0.0,5.0,82
+NE,GBAO (D),July 2026,—,—,47.0,47.0,2026-07-20,U,,D,GBAO,,0.0,5.0,106
+NE,Tavern Research (D),"May 8–11, 2026","1,165 (LV)",± 3.5%,42.0,47.0,2026-05-11,LV,1165.0,D,Tavern Research,,5.0,12.0,176
+NE,GBAO (D),April 2026,—,—,45.0,46.0,2026-04-20,U,,D,GBAO,,1.0,7.0,197
+NE,Impact Research (D),"February 2–5, 2026",600 (LV),± 4.0%,48.0,47.0,2026-02-05,LV,600.0,D,Impact Research,,-1.0,5.0,271
+NE,Lake Research Partners (D),"December 11–17, 2025",900 (LV),—,48.0,47.0,2025-12-17,LV,900.0,D,Lake Research Partners,,-1.0,5.0,321
+NE,Lake Research Partners (D),"July 23–29, 2025",900 (LV),± 3.3%,46.0,47.0,2025-07-29,LV,900.0,D,Lake Research Partners,,1.0,7.0,462
+NE,Change Research (D),"March 28 – April 1, 2025",524 (LV),± 4.6%,46.0,45.0,2025-04-01,LV,524.0,D,Change Research,,-1.0,9.0,581
+NH,University of New Hampshire,"October 27–31, 2026","2,040 (LV)",± 2.2%,42.0,54.0,2026-10-31,LV,2040.0,,University of New Hampshire,,12.0,2.0,3
+NH,National Public Affairs (R),"October 25–29, 2026",800 (LV),± 3.5%,45.0,51.0,2026-10-29,LV,800.0,R,National Public Affairs,,6.0,2.0,5
+NH,Rasmussen Reports (R),"October 20–23, 2026",970 (LV),± 3.0%,44.0,50.0,2026-10-23,LV,970.0,R,Rasmussen Reports,,6.0,2.0,11
+NH,Saint Anselm College,"October 19–20, 2026","1,672 (LV)",± 2.4%,43.0,50.0,2026-10-20,LV,1672.0,,Saint Anselm College,,7.0,2.0,14
+NH,National Public Affairs (R),"October 8–12, 2026",600 (LV),± 4.0%,45.0,50.0,2026-10-12,LV,600.0,R,National Public Affairs,,6.0,4.0,22
+NH,YouGov,"September 28 – October 5, 2026","1,520 (LV)",± 3.9%,43.0,51.0,2026-10-05,LV,1520.0,,YouGov,,8.0,4.0,29
+NH,Rasmussen Reports (R),"October 2–4, 2026",979 (LV),± 3.0%,44.0,49.0,2026-10-04,LV,979.0,R,Rasmussen Reports,,5.0,4.0,30
+NH,Saint Anselm College,"September 28–29, 2026","1,042 (LV)",± 3.0%,44.0,51.0,2026-09-29,LV,1042.0,,Saint Anselm College,,7.0,1.0,35
+NH,Trafalgar Group (R),"September 26–27, 2026","1,082 (LV)",± 2.9%,41.0,47.0,2026-09-27,LV,1082.0,R,Trafalgar Group,,6.0,11.0,37
+NH,New York Times/Siena University,"September 15–22, 2026",613 (LV),± 4.9%,45.0,50.0,2026-09-22,LV,613.0,,New York Times/Siena University,,5.0,5.0,42
+NH,University of New Hampshire,"September 17–21, 2026","1,418 (LV)",± 2.6%,42.0,50.0,2026-09-21,LV,1418.0,,University of New Hampshire,,8.0,4.0,43
+NH,InsiderAdvantage (R),"September 16–17, 2026","1,200 (LV)",± 2.8%,40.0,48.0,2026-09-17,LV,1200.0,R,InsiderAdvantage,,8.0,9.0,47
+NH,co/efficient (R),"September 9–11, 2026",958 (LV),± 3.2%,46.0,46.0,2026-09-11,LV,958.0,R,co/efficient,,0.0,9.0,53
+NH,Rasmussen Reports (R),"September 8–10, 2026","1,000 (LV)",± 2.0%,34.0,45.0,2026-09-10,LV,1000.0,R,Rasmussen Reports,,11.0,9.0,54
+NH,"Fabrizio, Lee, & Associates (R)","August 27–30, 2026",600 (LV),± 4.0%,37.0,36.0,2026-08-30,LV,600.0,R,"Fabrizio, Lee, & Associates",,-1.0,23.0,65
+NH,University of New Hampshire,"August 20–24, 2026","1,878 (LV)",± 2.3%,45.0,43.0,2026-08-24,LV,1878.0,,University of New Hampshire,,-2.0,7.0,71
+NH,Saint Anselm College,"August 17–18, 2026","1,411 (LV)",± 2.6%,41.0,48.0,2026-08-18,LV,1411.0,,Saint Anselm College,,7.0,11.0,77
+NH,Peak Insights (R),"June 24–27, 2026",500 (LV),± 4.0%,42.0,43.0,2026-06-27,LV,500.0,R,Peak Insights,,1.0,15.0,129
+NH,Saint Anselm College,"June 24–25, 2026","1,614 (RV)",± 2.4%,41.0,47.0,2026-06-25,RV,1614.0,,Saint Anselm College,,6.0,12.0,131
+NH,University of New Hampshire,"June 18–23, 2026","2,232 (LV)",± 2.1%,44.0,47.0,2026-06-23,LV,2232.0,,University of New Hampshire,,3.0,7.0,133
+NH,University of New Hampshire,"April 17–21, 2026","1,295 (LV)",± 2.7%,42.0,49.0,2026-04-21,LV,1295.0,,University of New Hampshire,,7.0,6.0,196
+NH,Emerson College,"March 21–23, 2026","1,000 (LV)",± 2.9%,44.0,45.0,2026-03-23,LV,1000.0,,Emerson College,,1.0,6.0,225
+NH,Saint Anselm College,"March 16–18, 2026","1,491 (RV)",± 2.5%,43.0,46.0,2026-03-18,RV,1491.0,,Saint Anselm College,,3.0,11.0,230
+NH,yes. every kid.,"January 28–29, 2026",563 (LV),± 4.1%,41.0,45.0,2026-01-29,LV,563.0,,yes. every kid.,,4.0,14.0,278
+NH,University of New Hampshire,"January 15–19, 2026","2,053 (LV)",± 2.1%,45.0,50.0,2026-01-19,LV,2053.0,,University of New Hampshire,,5.0,5.0,288
+NH,NHJournal/Praecones Analytica,"December 26–28, 2025",603 (RV),± 4.0%,36.0,42.0,2025-12-28,RV,603.0,,NHJournal/Praecones Analytica,,6.0,22.0,310
+NH,Guidant Polling and Strategy (R),"December 9–11, 2025",600 (LV),± 4.0%,44.0,47.0,2025-12-11,LV,600.0,R,Guidant Polling and Strategy,,3.0,9.0,327
+NH,Saint Anselm College,"November 18–19, 2025","2,212 (RV)",—,41.0,44.0,2025-11-19,RV,2212.0,,Saint Anselm College,,3.0,16.0,349
+NH,co/efficient (R),"October 9–13, 2025","1,034 (LV)",± 3.1%,42.0,45.0,2025-10-13,LV,1034.0,R,co/efficient,,3.0,12.0,386
+NH,University of New Hampshire,"September 17–23, 2025","1,235 (LV)",± 2.8%,43.0,49.0,2025-09-23,LV,1235.0,,University of New Hampshire,,6.0,7.0,406
+NH,co/efficient (R),"September 10–12, 2025",904 (LV),± 3.3%,43.0,46.0,2025-09-12,LV,904.0,R,co/efficient,,3.0,11.0,417
+NH,1892 Polling (R),"September 2–4, 2025",500 (LV),± 4.4%,43.0,45.0,2025-09-04,LV,500.0,R,1892 Polling,,2.0,12.0,425
+NH,Quantus Insights (R),"March 17–19, 2025",650 (RV),± 3.8%,53.0,44.0,2025-03-19,RV,650.0,R,Quantus Insights,,-9.0,3.0,594
+NM,Research & Polling Inc.,"October 1–9, 2026","1,125 (LV)",± 2.9%,37.0,53.0,2026-10-09,LV,1125.0,,Research & Polling Inc.,,16.0,10.0,25
+NM,SurveyUSA,"September 25–30, 2026",567 (LV),± 5.1%,36.0,54.0,2026-09-30,LV,567.0,,SurveyUSA,,18.0,10.0,34
+NM,Research & Polling Inc.,"August 21–28, 2026",516 (LV),± 4.3%,38.0,53.0,2026-08-28,LV,516.0,,Research & Polling Inc.,,15.0,9.0,67
+OH,Trafalgar Group (R),"October 31 – November 1, 2026","1,092 (LV)",± 2.9%,45.0,47.0,2026-11-01,LV,1092.0,R,Trafalgar Group,,2.0,4.0,2
+OH,Research Co.,"October 30 – November 1, 2026",450 (LV),± 4.6%,44.0,45.0,2026-11-01,LV,450.0,,Research Co.,,1.0,9.0,2
+OH,New York Times/Siena University,"October 26 – November 1, 2026",717 (LV),± 4.4%,44.0,49.0,2026-11-01,LV,717.0,,New York Times/Siena University,,5.0,7.0,2
+OH,ActiVote,"October 18–31, 2026",400 (LV),± 4.9%,50.0,50.0,2026-10-31,LV,400.0,,ActiVote,,0.0,0.0,3
+OH,InsiderAdvantage (R),"October 29–30, 2026","1,200 (LV)",± 2.8%,47.0,49.0,2026-10-30,LV,1200.0,R,InsiderAdvantage,,2.0,1.0,4
+OH,YouGov,"October 26–29, 2026","2,090 (LV)",± 2.8%,48.0,50.0,2026-10-29,LV,2090.0,,YouGov,,2.0,1.0,5
+OH,Suffolk University,"October 21–26, 2026",500 (LV),± 4.4%,44.0,47.0,2026-10-26,LV,500.0,,Suffolk University,,3.0,4.0,8
+OH,Concord Public Opinion Partners (D),"October 22–24, 2026",496 (LV),± 4.5%,42.0,46.0,2026-10-24,LV,496.0,D,Concord Public Opinion Partners,,4.0,4.0,10
+OH,RedBox Research (D),"October 20–23, 2026","2,998 (LV)",± 4.6%,44.0,47.0,2026-10-23,LV,2998.0,D,RedBox Research,,3.0,4.0,11
+OH,Echelon Insights (R),"October 16–23, 2026",508 (LV),± 5.2%,47.0,47.0,2026-10-23,LV,508.0,R,Echelon Insights,,0.0,3.0,11
+OH,InsiderAdvantage (R),"October 21–22, 2026","1,200 (LV)",± 2.8%,44.0,47.0,2026-10-22,LV,1200.0,R,InsiderAdvantage,,3.0,6.0,12
+OH,Verasight/VoteHub,"October 1–20, 2026",531 (LV),± 4.2%,44.0,48.0,2026-10-20,LV,531.0,,Verasight/VoteHub,,4.0,9.0,14
+OH,Beacon Research (D)/ Shaw & Co. Research (R),"October 15–19, 2026","1,592 (LV)",± 2.0%,47.0,52.0,2026-10-19,LV,1592.0,,Beacon Research/ Shaw & Co. Research,,5.0,2.0,15
+OH,Marist University,"October 15–18, 2026",— (LV),± 4.5%,44.0,48.0,2026-10-18,LV,,,Marist University,,4.0,4.0,16
+OH,ActiVote,"September 26 – October 18, 2026",400 (LV),± 4.9%,50.0,50.0,2026-10-18,LV,400.0,,ActiVote,,0.0,0.0,16
+OH,Rasmussen Reports (R),"October 12–14, 2026",901 (LV),± 3.0%,49.0,47.0,2026-10-14,LV,901.0,R,Rasmussen Reports,,-2.0,2.0,20
+OH,GS Strategy Group (R)/ New River Strategies (D),"October 9–13, 2026",959 (LV),—,43.0,49.0,2026-10-13,LV,959.0,,GS Strategy Group/ New River Strategies,,6.0,1.0,21
+OH,Bowling Green State University/YouGov,"September 29 – October 9, 2026","1,000 (LV)",± 4.0%,42.0,48.0,2026-10-09,LV,1000.0,,Bowling Green State University/YouGov,,6.0,10.0,25
+OH,co/efficient (R),"October 5–6, 2026",925 (LV),± 3.5%,46.0,45.0,2026-10-06,LV,925.0,R,co/efficient,,-1.0,9.0,28
+OH,SSRS,"September 29 – October 5, 2026",760 (LV),± 4.5%,43.0,49.0,2026-10-05,LV,760.0,,SSRS,,6.0,1.0,29
+OH,New York Times/Siena University,"September 22 – October 1, 2026",616 (LV),± 4.5%,46.0,49.0,2026-10-01,LV,616.0,,New York Times/Siena University,,3.0,5.0,33
+OH,YouGov,"September 18–30, 2026","3,780 (LV)",± 2.5%,45.0,49.0,2026-09-30,LV,3780.0,,YouGov,,4.0,4.0,34
+OH,InsiderAdvantage (R),"September 28–29, 2026","1,200 (LV)",± 2.8%,43.0,44.0,2026-09-29,LV,1200.0,R,InsiderAdvantage,,1.0,7.0,35
+OH,Big Data Poll (R),"September 26–27, 2026",680 (LV),± 4.0%,43.0,46.0,2026-09-27,LV,680.0,R,Big Data Poll,,4.0,8.5,37
+OH,Marist University,"September 24–27, 2026","1,298 (RV)",± 3.8%,43.0,51.0,2026-09-27,RV,1298.0,,Marist University,,8.0,4.0,37
+OH,Suffolk University,"September 23–27, 2026",500 (LV),± 4.4%,44.0,47.0,2026-09-27,LV,500.0,,Suffolk University,,3.0,6.0,37
+OH,Rasmussen Reports (R),"September 22–23, 2026","1,115 (LV)",± 3.0%,43.0,46.0,2026-09-23,LV,1115.0,R,Rasmussen Reports,,3.0,7.0,41
+OH,Quantus Insights (R),"September 21–23, 2026",695 (LV),± 4.2%,47.0,47.0,2026-09-23,LV,695.0,R,Quantus Insights,,0.5,4.0,41
+OH,Trafalgar Group (R),"September 14–16, 2026","1,085 (LV)",± 2.9%,42.0,45.0,2026-09-16,LV,1085.0,R,Trafalgar Group,,3.0,6.0,48
+OH,Bowling Green State University/YouGov,"September 1–10, 2026","1,000 (LV)",± 4.0%,45.0,48.0,2026-09-10,LV,1000.0,,Bowling Green State University/YouGov,,3.0,7.0,54
+OH,InsiderAdvantage (R),"September 8–9, 2026","1,200 (LV)",± 2.8%,42.0,47.0,2026-09-09,LV,1200.0,R,InsiderAdvantage,,5.0,8.0,55
+OH,Concord Public Opinion Partners (D),"August 29–31, 2026",504 (LV),± 4.4%,40.0,50.0,2026-08-31,LV,504.0,D,Concord Public Opinion Partners,,10.0,7.0,64
+OH,Abacus Data,"August 26–28, 2026",306 (LV),—,46.0,52.0,2026-08-28,LV,306.0,,Abacus Data,,6.0,2.0,67
+OH,Beacon Research (D)/ Shaw & Co. Research (R),"August 6–10, 2026","1,008 (RV)",± 3.0%,45.0,53.0,2026-08-10,RV,1008.0,,Beacon Research/ Shaw & Co. Research,,8.0,2.0,85
+OH,Tulchin Research (D),"July 29 – August 4, 2026",600 (LV),± 4.0%,43.0,47.0,2026-08-04,LV,600.0,D,Tulchin Research,,4.0,6.0,91
+OH,New York Times/Siena University,"June 15–28, 2026",601 (LV),± 4.7%,50.0,47.0,2026-06-28,LV,601.0,,New York Times/Siena University,,-3.0,3.0,128
+OH,Fabrizio Ward (R)/ Impact Research (D),"June 14–16, 2026",800 (LV),± 3.5%,45.0,48.0,2026-06-16,LV,800.0,,Fabrizio Ward/ Impact Research,,3.0,7.0,140
+OH,Tulchin Research (D),"June 2–4, 2026",600 (LV),± 4.0%,42.0,46.0,2026-06-04,LV,600.0,D,Tulchin Research,,4.0,7.0,152
+OH,Beacon Research (D)/ Shaw & Co. Research (R),"May 28 – June 1, 2026","1,015 (RV)",± 3.0%,45.0,53.0,2026-06-01,RV,1015.0,,Beacon Research/ Shaw & Co. Research,,8.0,2.0,155
+OH,Bowling Green State University/YouGov,"April 7–14, 2026","1,000 (RV)",± 4.5%,50.0,47.0,2026-04-14,RV,1000.0,,Bowling Green State University/YouGov,,-3.0,3.0,203
+OH,Echelon Insights (R),"April 3–9, 2026",413 (LV),± 5.8%,51.0,45.0,2026-04-09,LV,413.0,R,Echelon Insights,,-6.0,4.0,208
+OH,Quantus Insights (R),"March 13–14, 2026",784 (LV),± 3.8%,46.0,44.0,2026-03-14,LV,784.0,R,Quantus Insights,,-2.0,6.0,234
+OH,OnMessage Public Strategies (R),"March 3–8, 2026",600 (LV),± 4.0%,45.0,47.0,2026-03-08,LV,600.0,R,OnMessage Public Strategies,,2.0,8.0,240
+OH,EMC Research (D),"February 10–22, 2026","1,343 (LV)",± 2.7%,47.0,51.0,2026-02-22,LV,1343.0,D,EMC Research,,4.0,2.0,254
+OH,Emerson College,"December 6–8, 2025",850 (RV),± 3.3%,49.0,46.0,2025-12-08,RV,850.0,,Emerson College,,-3.0,5.0,330
+OH,Bowling Green State University/YouGov,"October 2–14, 2025",800 (RV),± 4.5%,48.0,49.0,2025-10-14,RV,800.0,,Bowling Green State University/YouGov,,1.0,3.0,385
+OH,Hart Research (D),"September 19–22, 2025",800 (LV),± 3.5%,45.0,48.0,2025-09-22,LV,800.0,D,Hart Research,,3.0,7.0,407
+OH,Emerson College,"August 18–19, 2025","1,000 (RV)",± 3%,50.0,44.0,2025-08-19,RV,1000.0,,Emerson College,,-6.0,7.0,441
+OH,Bowling Green State University/YouGov,"April 18–24, 2025",800 (RV),± 4.1%,49.0,46.0,2025-04-24,RV,800.0,,Bowling Green State University/YouGov,,-3.0,5.0,558
+OH,Bowling Green State University/YouGov,"February 14–21, 2025",800 (RV),± 4.0%,47.0,41.0,2025-02-21,RV,800.0,,Bowling Green State University/YouGov,,-6.0,12.0,620
+OK,CHS & Associates,"August 3–6, 2026",500 (RV),± 4.3%,49.0,25.0,2026-08-06,RV,500.0,,CHS & Associates,,-24.0,19.0,89
+RI,University of New Hampshire,"October 27–31, 2026",753 (LV),± 3.6%,32.0,63.0,2026-10-31,LV,753.0,,University of New Hampshire,,31.0,2.0,3
+RI,Emerson College/WPRI-TV,"October 8–11, 2026",800 (LV),± 3.5%,25.0,59.0,2026-10-11,LV,800.0,,Emerson College/WPRI-TV,,34.0,9.0,23
+RI,Embold Research,"October 5–8, 2026",815 (LV),± 3.6%,32.0,55.0,2026-10-08,LV,815.0,,Embold Research,,23.0,9.0,26
+RI,University of New Hampshire,"September 17–21, 2026",595 (LV),± 4.0%,33.0,53.0,2026-09-21,LV,595.0,,University of New Hampshire,,20.0,8.0,43
+RI,University of New Hampshire,"August 20–24, 2026",750 (LV),± 3.6%,31.0,51.0,2026-08-24,LV,750.0,,University of New Hampshire,,20.0,13.0,71
+RI,University of New Hampshire,"June 18–23, 2026",664 (LV),± 3.9%,35.0,52.0,2026-06-23,LV,664.0,,University of New Hampshire,,17.0,12.0,133
+RI,University of New Hampshire,"April 16–20, 2026",556 (LV),± 4.0%,34.0,52.0,2026-04-20,LV,556.0,,University of New Hampshire,,18.0,12.0,197
+SC,Patinkin Research Strategies (D),"October 27–29, 2026",500 (LV),± 4.4%,43.0,48.0,2026-10-29,LV,500.0,D,Patinkin Research Strategies,,5.0,9.0,5
+SC,New York Times/Siena University,"October 19–26, 2026",707 (LV),± 4.3%,48.0,48.0,2026-10-26,LV,707.0,,New York Times/Siena University,,0.0,3.0,8
+SC,Targoz Media Research,"October 16–25, 2026",895 (LV),± 2.8%,47.0,46.0,2026-10-25,LV,895.0,,Targoz Media Research,,-1.0,4.0,9
+SC,East Carolina University,"October 19–24, 2026",955 (LV),± 3.7%,51.0,47.0,2026-10-24,LV,955.0,,East Carolina University,,-4.0,2.0,10
+SC,The Citadel,"October 14–25, 2026",890 (LV),± 3.4%,43.0,39.0,2026-10-25,LV,890.0,,The Citadel,,-4.0,15.0,9
+SC,Impact Research (D),"October 15–21, 2026",800 (LV),± 3.5%,44.0,45.0,2026-10-21,LV,800.0,D,Impact Research,,1.0,5.0,13
+SC,Trafalgar Group (R),"October 16–18, 2026","1,095 (LV)",± 2.9%,49.0,46.0,2026-10-18,LV,1095.0,R,Trafalgar Group,,-3.0,1.0,16
+SC,Rasmussen Reports (R),"October 5–8, 2026",837 (LV),± 3.0%,49.0,45.0,2026-10-08,LV,837.0,R,Rasmussen Reports,,-4.0,6.0,26
+SC,InsiderAdvantage (R),"September 28–29, 2026","1,200 (LV)",± 2.8%,46.0,45.0,2026-09-29,LV,1200.0,R,InsiderAdvantage,,-1.0,4.0,35
+SC,Trafalgar Group (R),"September 23–25, 2026","1,087 (LV)",± 2.9%,43.0,42.0,2026-09-25,LV,1087.0,R,Trafalgar Group,,-1.0,9.0,39
+SC,Rasmussen Reports (R),"September 14, 2026","1,006 (LV)",± 3.0%,48.0,43.0,2026-09-14,LV,1006.0,R,Rasmussen Reports,,-5.0,9.0,50
+SC,InsiderAdvantage (R),"September 8–9, 2026","1,200 (LV)",± 2.8%,45.0,43.0,2026-09-09,LV,1200.0,R,InsiderAdvantage,,-2.0,9.0,55
+SC,Abacus Data,"August 26–28, 2026",306 (LV),—,55.0,42.0,2026-08-28,LV,306.0,,Abacus Data,,-13.0,3.0,67
+SC,Impact Research (D),"August 18–24, 2026",700 (LV),± 3.7%,41.0,41.0,2026-08-24,LV,700.0,D,Impact Research,,0.0,13.0,71
+SC,Impact Research (D),"August 14–22, 2026",900 (LV),± 3.3%,39.0,42.0,2026-08-22,LV,900.0,D,Impact Research,,3.0,13.0,73
+SD,Concord Public Opinion Partners (D),"October 22–26, 2026",448 (LV),± 3.5%,41.0,43.0,2026-10-26,LV,448.0,D,Concord Public Opinion Partners,,2.0,6.0,8
+SD,Emerson College,"October 19–20, 2026",803 (LV),± 3.5%,50.0,42.0,2026-10-20,LV,803.0,,Emerson College,,-8.0,8.0,14
+SD,Quantus Insights (R),"October 17–19, 2026",633 (LV),± 4.1%,59.0,37.0,2026-10-19,LV,633.0,R,Quantus Insights,,-21.0,3.5,15
+SD,Public Opinon Strategies (R),"October 12–16, 2026",500 (LV),± 4.4%,54.0,37.0,2026-10-16,LV,500.0,R,Public Opinon Strategies,,-17.0,9.0,18
+SD,Mason-Dixon Polling & Strategy,"October 12–14, 2026",500 (RV),± 4.5%,56.0,37.0,2026-10-14,RV,500.0,,Mason-Dixon Polling & Strategy,,-19.0,6.0,20
+SD,Concord Public Opinion Partners (D),"October 6–8, 2026",400 (LV),± 4.9%,42.0,43.0,2026-10-08,LV,400.0,D,Concord Public Opinion Partners,,1.0,10.0,26
+SD,Zenith Research,"September 24–27, 2026",500 (LV),± 4.4%,53.0,47.0,2026-09-27,LV,500.0,,Zenith Research,,-6.0,8.5,37
+SD,Public Policy Polling (D),"September 8–9, 2026",629 (RV),± 3.6%,45.0,42.0,2026-09-09,RV,629.0,D,Public Policy Polling,,-3.0,13.0,55
+SD,Lake Research Partners (D),"August 26–30, 2026",500 (LV),± 4.4%,44.0,51.0,2026-08-30,LV,500.0,D,Lake Research Partners,,7.0,5.0,65
+SD,Impact Research (D),"August 13–17, 2026",500 (LV),± 4.4%,44.0,44.0,2026-08-17,LV,500.0,D,Impact Research,,0.0,12.0,78
+SD,Public Opinion Strategies (R),"July 6–9, 2026",500 (LV),± 4.4%,56.0,33.0,2026-07-09,LV,500.0,R,Public Opinion Strategies,,-23.0,11.0,117
+SD,Public Policy Polling (D),"May 29–30, 2026",726 (RV),± 3.6%,44.0,40.0,2026-05-30,RV,726.0,D,Public Policy Polling,,-12.0,16.0,157
+SD,Public Policy Polling (D),"February 17–18, 2026",685 (RV),—,47.0,35.0,2026-02-18,RV,685.0,D,Public Policy Polling,,-12.0,19.0,258
+SD,Public Policy Polling (D),"November 13–14, 2025",814 (RV),± 3.3%,44.0,31.0,2025-11-14,RV,814.0,D,Public Policy Polling,,-13.0,25.0,354
+SD,Public Policy Polling (D),"July 30–31, 2025",524 (LV),± 4.1%,41.0,28.0,2025-07-31,LV,524.0,D,Public Policy Polling,,-13.0,31.0,460
+TN,Targoz Market Research,"August 15–26, 2026","1,157 (RV)",± 2.77%,51.0,31.0,2026-08-26,RV,1157.0,,Targoz Market Research,,-20.0,12.0,69
+TX,Trafalgar Group (R),"October 31 – November 1, 2026","1,089 (LV)",± 2.9%,48.0,48.0,2026-11-01,LV,1089.0,R,Trafalgar Group,,0.0,2.0,2
+TX,AtlasIntel,"October 28 – November 1, 2026","1,678 (A)",± 2.0%,45.0,51.0,2026-11-01,A,1678.0,,AtlasIntel,,6.0,1.0,2
+TX,New York Times/Siena University,"October 27 – November 1, 2026","1,215 (LV)",± 3.4%,43.0,50.0,2026-11-01,LV,1215.0,,New York Times/Siena University,,7.0,6.0,2
+TX,Kreate Strategies,"October 27–30, 2026",900 (LV),± 3.3%,45.0,48.0,2026-10-30,LV,900.0,,Kreate Strategies,,3.0,6.0,4
+TX,YouGov,"October 26–29, 2026","2,141 (LV)",± 2.9%,47.0,51.0,2026-10-29,LV,2141.0,,YouGov,,4.0,1.0,5
+TX,Quantus Insights,"October 26–28, 2026","1,221 (LV)",± 3.2%,49.0,48.0,2026-10-28,LV,1221.0,,Quantus Insights,,-1.0,2.0,6
+TX,ActiVote,"October 22–28, 2026",400 (LV),± 4.9%,48.0,52.0,2026-10-28,LV,400.0,,ActiVote,,4.0,0.0,6
+TX,A2 Insights,"October 23–27, 2026",631 (LV),± 4.9%,47.0,50.0,2026-10-27,LV,631.0,,A2 Insights,,3.0,0.0,7
+TX,SSRS,"October 20–27, 2026",923 (LV),± 4.2%,43.0,49.0,2026-10-27,LV,923.0,,SSRS,,6.0,3.0,7
+TX,Data for Progress (D),"October 23–26, 2026",712 (LV),± 4.0%,45.0,49.0,2026-10-26,LV,712.0,D,Data for Progress,,4.0,4.0,8
+TX,YouGov Blue (D),"October 21–26, 2026","1,000 (RV)",± 4.6%,43.0,51.0,2026-10-26,RV,1000.0,D,YouGov Blue,,8.0,5.0,8
+TX,Texas Southern University,"October 21–25, 2026","2,000 (LV)",± 2.2%,47.0,49.0,2026-10-25,LV,2000.0,,Texas Southern University,,2.0,1.0,9
+TX,Rasmussen Reports,"October 20–21, 2026",965 (LV),± 3.0%,45.0,45.0,2026-10-21,LV,965.0,,Rasmussen Reports,,0.0,5.0,13
+TX,ActiVote,"October 17–21, 2026",400 (LV),± 4.9%,49.0,51.0,2026-10-21,LV,400.0,,ActiVote,,2.0,0.0,13
+TX,Univision/YouGov,"October 13–21, 2026","1,000 (RV)",± 3.8%,45.0,50.0,2026-10-21,RV,1000.0,,Univision/YouGov,,5.0,5.0,13
+TX,Verasight/VoteHub,"October 1–20, 2026",509 (LV),± 4.3%,45.0,48.0,2026-10-20,LV,509.0,,Verasight/VoteHub,,4.0,8.5,14
+TX,Emerson College,"October 17–19, 2026","1,000 (LV)",± 3.0%,48.0,49.0,2026-10-19,LV,1000.0,,Emerson College,,1.5,4.0,15
+TX,Beacon Research (D)/ Shaw & Co. Research (R),"October 15–19, 2026","1,398 (LV)",± 2.5%,49.0,49.0,2026-10-19,LV,1398.0,,Beacon Research/ Shaw & Co. Research,,0.0,2.0,15
+TX,Texas Public Opinion Research (D),"October 15–18, 2026",969 (LV),± 3.9%,47.0,51.0,2026-10-18,LV,969.0,D,Texas Public Opinion Research,,4.0,2.0,16
+TX,Pollfinity Research,"October 15–18, 2026",278 (RV),± 6.5%,43.0,48.0,2026-10-18,RV,278.0,,Pollfinity Research,,5.0,5.0,16
+TX,CBS News/YouGov,"October 8–16, 2026","1,492 (LV)",± 3.5%,49.0,51.0,2026-10-16,LV,1492.0,,CBS News/YouGov,,2.0,0.0,18
+TX,Cor Strategies (R),"October 10–15, 2026","1,409 (LV)",± 2.6%,40.0,44.0,2026-10-15,LV,1409.0,R,Cor Strategies,,4.0,16.0,19
+TX,InsiderAdvantage,"October 13–14, 2026","1,200 (LV)",± 2.8%,49.0,48.0,2026-10-14,LV,1200.0,,InsiderAdvantage,,-1.0,1.0,20
+TX,University of Houston,"October 10–14, 2026","2,000 (LV)",± 2.2%,46.0,48.0,2026-10-14,LV,2000.0,,University of Houston,,2.0,3.0,20
+TX,ActiVote,"September 30 – October 14, 2026",400 (LV),± 4.9%,48.0,52.0,2026-10-14,LV,400.0,,ActiVote,,4.0,0.0,20
+TX,GS Strategy Group (R)/ New River Strategies (D),"October 9–13, 2026",934 (LV),—,44.0,49.0,2026-10-13,LV,934.0,,GS Strategy Group/ New River Strategies,,5.0,4.0,21
+TX,Quantus Insights,"October 9–11, 2026",854 (LV),± 3.6%,47.0,47.0,2026-10-11,LV,854.0,,Quantus Insights,,0.0,4.0,23
+TX,Marist University,"October 8–11, 2026",— (LV),± 4.9%,45.0,47.0,2026-10-11,LV,,,Marist University,,2.0,4.0,23
+TX,Trafalgar Group (R),"October 6–8, 2026","1,086 (LV)",± 2.9%,44.0,47.0,2026-10-08,LV,1086.0,R,Trafalgar Group,,3.0,8.0,26
+TX,ReconMR/Siena University,"October 5–8, 2026",617 (LV),± 4.4%,44.0,48.0,2026-10-08,LV,617.0,,ReconMR/Siena University,,4.0,5.0,26
+TX,YouGov,"September 28 – October 5, 2026","3,625 (LV)",± 3.0%,44.0,50.0,2026-10-05,LV,3625.0,,YouGov,,6.0,3.0,29
+TX,University of Texas/Texas Politics Project,"September 25 – October 5, 2026",861 (LV),± 3.3%,47.0,50.0,2026-10-05,LV,861.0,,University of Texas/Texas Politics Project,,3.0,3.0,29
+TX,New York Times/Siena University,"September 21–30, 2026",615 (LV),± 4.5%,45.0,51.0,2026-09-30,LV,615.0,,New York Times/Siena University,,6.0,4.0,34
+TX,Rasmussen Reports,"September 28–29, 2026","1,128 (LV)",± 3.0%,45.0,46.0,2026-09-29,LV,1128.0,,Rasmussen Reports,,1.0,5.0,35
+TX,Beacon Research (D)/ Shaw & Co. Research (R),"September 24–28, 2026",881 (LV),± 3.0%,49.0,51.0,2026-09-28,LV,881.0,,Beacon Research/ Shaw & Co. Research,,2.0,1.0,36
+TX,Guidant Polling & Strategy (R),"September 20–28, 2026",800 (LV),± 3.5%,44.0,47.0,2026-09-28,LV,800.0,R,Guidant Polling & Strategy,,3.0,5.0,36
+TX,UMass Lowell/YouGov,"September 18–28, 2026",850 (LV),± 4.5%,45.0,45.0,2026-09-28,LV,850.0,,UMass Lowell/YouGov,,0.0,7.0,36
+TX,Pulse Decision Science (R),"September 24–27, 2026",800 (LV),± 3.5%,48.0,45.0,2026-09-27,LV,800.0,R,Pulse Decision Science,,-3.0,4.0,37
+TX,Big Data Poll,"September 24–26, 2026",698 (LV),± 4.0%,45.0,47.0,2026-09-26,LV,698.0,,Big Data Poll,,2.5,8.5,38
+TX,Stratus Intelligence (R),"September 22–24, 2026",856 (LV),± 3.5%,48.0,48.0,2026-09-24,LV,856.0,R,Stratus Intelligence,,0.0,4.0,40
+TX,Texas Public Opinion Research (D),"September 19–22, 2026","1,007 (LV)",± 3.6%,44.0,49.0,2026-09-22,LV,1007.0,D,Texas Public Opinion Research,,5.0,3.0,42
+TX,Marist University,"September 17–20, 2026","1,139 (RV)",± 4.4%,44.0,50.0,2026-09-20,RV,1139.0,,Marist University,,6.0,4.0,44
+TX,Texas Southern University,"September 15–19, 2026","1,800 (LV)",± 2.3%,46.0,47.0,2026-09-19,LV,1800.0,,Texas Southern University,,1.0,4.0,45
+TX,Trafalgar Group (R),"September 15–17, 2026","1,079 (LV)",± 2.9%,45.0,46.0,2026-09-17,LV,1079.0,R,Trafalgar Group,,1.0,6.0,47
+TX,Emerson College,"September 12–14, 2026","1,000 (LV)",± 3.0%,46.0,47.0,2026-09-14,LV,1000.0,,Emerson College,,1.0,4.0,50
+TX,SoCal Strategies,"September 12–13, 2026",649 (LV),—,45.0,50.0,2026-09-13,LV,649.0,,SoCal Strategies,,5.0,5.0,51
+TX,ReconMR/Siena University,"September 8–11, 2026",614 (LV),± 4.3%,43.0,49.0,2026-09-11,LV,614.0,,ReconMR/Siena University,,6.0,4.0,53
+TX,Mason-Dixon,"September 8–10, 2026",625 (LV),± 4.0%,43.0,46.0,2026-09-10,LV,625.0,,Mason-Dixon,,3.0,8.0,54
+TX,InsiderAdvantage,"September 8–9, 2026","1,200 (LV)",± 2.8%,46.0,47.0,2026-09-09,LV,1200.0,,InsiderAdvantage,,1.0,5.0,55
+TX,Univision/YouGov,"August 27 – September 4, 2026","1,000 (RV)",± 3.6%,43.0,48.0,2026-09-04,RV,1000.0,,Univision/YouGov,,5.0,7.0,60
+TX,Fabrizio Ward (R)/ Impact Research (D),"August 30 – September 1, 2026",895 (LV),± 3.3%,44.0,48.0,2026-09-01,LV,895.0,,Fabrizio Ward/ Impact Research,,4.0,8.0,63
+TX,Overton Insights (R),"August 24–26, 2026","1,167 (LV)",± 2.9%,50.0,50.0,2026-08-26,LV,1167.0,R,Overton Insights,,0.5,6.5,69
+TX,Texas Public Opinion Research (D),"August 21–24, 2026","1,000 (LV)",± 3.3%,42.0,48.0,2026-08-24,LV,1000.0,D,Texas Public Opinion Research,,6.0,7.0,71
+TX,University of Texas/Texas Politics Project,"August 5–13, 2026","1,200 (RV)",± 2.8%,39.0,42.0,2026-08-13,RV,1200.0,,University of Texas/Texas Politics Project,,3.0,14.0,82
+TX,Emerson College,"August 9–10, 2026",1000 (LV),± 3.0%,47.0,46.0,2026-08-10,LV,1000.0,,Emerson College,,-1.0,5.0,85
+TX,YouGov Blue (D),"July 15–31, 2026","1,001 (RV)",± 3.6%,45.0,48.0,2026-07-31,RV,1001.0,D,YouGov Blue,,3.0,6.0,95
+TX,Texas A&M University/ReconMR/Siena University,"July 27–30, 2026",619 (LV),± 4.7%,43.0,47.0,2026-07-30,LV,619.0,,Texas A&M University/ReconMR/Siena University,,4.0,6.0,96
+TX,Texas Southern University,"July 27–30, 2026","1,200 (LV)",± 2.8%,45.0,47.0,2026-07-30,LV,1200.0,,Texas Southern University,,2.0,6.0,96
+TX,Beacon Research (D)/ Shaw & Co. Research (R),"July 23–27, 2026","1,005 (RV)",± 3.0%,48.0,51.0,2026-07-27,RV,1005.0,,Beacon Research/ Shaw & Co. Research,,3.0,3.0,99
+TX,Texas Public Opinion Research (D),"July 15–17, 2026","1,048 (LV)",± 3.4%,40.0,45.0,2026-07-17,LV,1048.0,D,Texas Public Opinion Research,,5.0,14.0,109
+TX,A2 Insights,"June 23–28, 2026",618 (LV),± 5.3%,46.0,48.0,2026-06-28,LV,618.0,,A2 Insights,,2.0,3.0,128
+TX,New York Times/Siena University,"June 19–27, 2026",656 (LV),± 4.5%,47.0,47.0,2026-06-27,LV,656.0,,New York Times/Siena University,,0.0,6.0,129
+TX,SoCal Strategies (R),"June 21, 2026",800 (LV),—,49.0,47.0,2026-06-21,LV,800.0,R,SoCal Strategies,,-2.0,4.0,135
+TX,University of Texas/Texas Politics Project,"June 5–12, 2026","1,200 (RV)",± 2.8%,43.0,42.0,2026-06-12,RV,1200.0,,University of Texas/Texas Politics Project,,-1.0,10.0,144
+TX,Quantus Insights,"June 3–4, 2026",800 (LV),± 3.5%,45.0,43.0,2026-06-04,LV,800.0,,Quantus Insights,,-2.0,7.0,152
+TX,Texas A&M University/ReconMR/Siena University,"June 1–4, 2026",807 (LV),± 4.0%,46.0,46.0,2026-06-04,LV,807.0,,Texas A&M University/ReconMR/Siena University,,0.0,5.0,152
+TX,Texas Public Opinion Research (D),"May 27–28, 2026","1,670 (LV)",± 2.8%,44.0,47.0,2026-05-28,LV,1670.0,D,Texas Public Opinion Research,,3.0,7.0,159
+TX,Public Policy Polling (D),"May 22–23, 2026",643 (RV),—,38.0,45.0,2026-05-23,RV,643.0,D,Public Policy Polling,,7.0,14.0,164
+TX,Texas Southern University,"April 22 – May 6, 2026","1,223 (LV)",± 2.8%,45.0,45.0,2026-05-06,LV,1223.0,,Texas Southern University,,0.0,8.0,181
+TX,Texas Public Opinion Research (D),"April 17–20, 2026","1,018 (LV)",± 3.3%,41.0,46.0,2026-04-20,LV,1018.0,D,Texas Public Opinion Research,,5.0,9.0,197
+TX,University of Texas/Texas Politics Project,"April 10–20, 2026","1,200 (RV)",± 2.8%,34.0,42.0,2026-04-20,RV,1200.0,,University of Texas/Texas Politics Project,,8.0,19.0,197
+TX,Impact Research (D),"March 12–17, 2026",900 (LV),± 3.3%,43.0,44.0,2026-03-17,LV,900.0,D,Impact Research,,1.0,7.0,231
+TX,Public Policy Polling (D),"March 4–5, 2026",576 (V),± 4.1%,45.0,47.0,2026-03-05,V,576.0,D,Public Policy Polling,,2.0,8.0,243
+TX,University of Houston/YouGov,"January 20–31, 2026","1,502 (LV)",± 2.5%,46.0,44.0,2026-01-31,LV,1502.0,,University of Houston/YouGov,,-2.0,7.0,276
+TX,Emerson College,"January 10–12, 2026","1,165 (RV)",± 2.8%,46.0,46.0,2026-01-12,RV,1165.0,,Emerson College,,0.0,9.0,295
+TX,Ragnar Research Partners (R),"November 12–17, 2025","1,000 (LV)",± 3.0%,44.0,44.0,2025-11-17,LV,1000.0,R,Ragnar Research Partners,,0.0,12.0,351
+TX,University of Houston/ Texas Southern University,"September 19 – October 1, 2025","1,650 (RV)",± 2.4%,49.0,46.0,2025-10-01,RV,1650.0,,University of Houston/ Texas Southern University,,-3.0,5.0,398
+TX,UT Tyler,"September 17–24, 2025","1,032 (RV)",± 3.1%,38.0,37.0,2025-09-24,RV,1032.0,,UT Tyler,,-1.0,17.0,405
+VA,The Public Sentiment Institute,"June 12–16, 2026",996 (LV),± 3.7%,33.0,51.0,2026-06-16,LV,996.0,,The Public Sentiment Institute,,18.0,14.0,140
+VA,The Public Sentiment Institute/ Virginia Project (R),"May 1–5, 2026","1,047 (LV)",± 3.7%,29.0,55.0,2026-05-05,LV,1047.0,R,The Public Sentiment Institute/ Virginia Project,,26.0,14.0,182

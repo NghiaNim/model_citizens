@@ -1,0 +1,46 @@
+Partisan poll house effects (D-sponsored, R-sponsored) vs race median: [ 2.07 -1.54]
+races 452 with polls 410
+--- leave-one-cycle-out
+C. fusion polls+fundamentals     RMSE  8.25 | MAE  5.42 | Brier 0.0407 | logloss 0.1317 | call% 0.938 
+                                 competitive n=152 Brier 0.1208 logloss 0.3810
+A. polls only (polled races)     RMSE  6.17 | MAE  4.63 | Brier 0.0380 | logloss 0.1215 | call% 0.941 
+                                 competitive n=123 Brier 0.1266 logloss 0.3937
+   fusion on same polled races   RMSE  5.82 | MAE  4.45 | Brier 0.0380 | logloss 0.1211
+B. fundamentals only             RMSE 14.04 | MAE 10.04 | Brier 0.0982 | logloss 0.3121 | call% 0.865 
+                                 competitive n=342 Brier 0.1297 logloss 0.4084
+        year    s_p    s_n     s_f    t_n    t_l    t_r    lam   lam2    s_u    c_p    c_f
+mean  2011.0  3.116  3.621  19.311  2.416  0.567  0.296  0.167 -0.065  0.008  0.149  0.003
+min   1998.0  2.855  2.543  16.994  1.995  0.050  0.050  0.161 -0.105  0.007  0.130  0.002
+max   2024.0  3.369  4.320  20.264  2.553  0.686  0.708  0.175  0.008  0.017  0.160  0.006
+
+by cycle (fusion):
+1998 n 34 bias(act-mu) 3.68 RMSE 16.61 Brier 0.047 miss: ['LA', 'ND']
+2000 n 32 bias(act-mu) 1.96 RMSE 5.45 Brier 0.041 miss: ['MI', 'WA']
+2002 n 30 bias(act-mu) -0.90 RMSE 8.19 Brier 0.063 miss: ['GA', 'MN', 'NH', 'SD']
+2004 n 33 bias(act-mu) -1.65 RMSE 10.04 Brier 0.028 miss: ['FL']
+2006 n 30 bias(act-mu) 3.36 RMSE 8.03 Brier 0.021 miss: ['VA']
+2008 n 33 bias(act-mu) 1.17 RMSE 5.21 Brier 0.009 miss: []
+2010 n 35 bias(act-mu) 2.17 RMSE 6.14 Brier 0.041 miss: ['CO', 'IL', 'NV']
+2012 n 31 bias(act-mu) 2.29 RMSE 8.81 Brier 0.052 miss: ['MT', 'ND']
+2014 n 34 bias(act-mu) -2.99 RMSE 5.52 Brier 0.028 miss: ['NC']
+2016 n 32 bias(act-mu) -4.59 RMSE 7.36 Brier 0.052 miss: ['PA', 'WI']
+2018 n 32 bias(act-mu) 0.19 RMSE 4.25 Brier 0.052 miss: ['AZ', 'FL', 'WV']
+2020 n 33 bias(act-mu) -5.91 RMSE 8.16 Brier 0.076 miss: ['GA', 'GA', 'IA', 'ME', 'NC']
+2022 n 31 bias(act-mu) 1.79 RMSE 8.34 Brier 0.028 miss: ['NV']
+2024 n 32 bias(act-mu) -1.97 RMSE 5.09 Brier 0.032 miss: ['PA']
+                  n   pred    obs
+f_fav                            
+[0.5, 0.6)       26  0.565  0.462
+[0.6, 0.7)       20  0.647  0.800
+[0.7, 0.8)       35  0.755  0.743
+[0.8, 0.9)       29  0.863  0.966
+[0.9, 0.95)      28  0.928  1.000
+[0.95, 0.99)     53  0.976  1.000
+[0.99, 0.999)    42  0.995  1.000
+[0.999, 1.001)  219  1.000  1.000
+standardized residual sd 1.034 kurt 0.420  t-fit: [14.969  0.     0.962]
+coverage 80%: 0.810  95%: 0.931
+
+w vs neff: {Interval(-1, 0, closed='right'): 0.0, Interval(0, 1, closed='right'): 0.82, Interval(1, 2, closed='right'): 0.9, Interval(2, 4, closed='right'): 0.92, Interval(4, 8, closed='right'): 0.95, Interval(8, 50, closed='right'): 0.97}
+FULL fit {'s_p': 3.146, 's_n': 3.618, 's_f': 19.314, 't_n': 2.426, 't_l': 0.595, 't_r': 0.128, 'lam': 0.167, 'lam2': -0.065, 's_u': 0.007, 'c_p': 0.15, 'c_f': 0.005} nll 1002.0
+fund coef lean,inc,money,nomoney [0.511 8.39  5.43  8.22 ]

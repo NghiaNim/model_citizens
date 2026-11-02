@@ -1,0 +1,179 @@
+<title>Senate Forecast Audit</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,650&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single reading column with charts and tables breaking wider; cool ballot-paper grey with one civic blue. */
+:root{--bg:#f6f7f9;--panel:#eceef2;--fg:#14171c;--mut:#555b66;--line:#d3d7de;--acc:#1f5fb0;--up:#0f6b4c;--upbg:#dff1ea;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--neu:#b8bdc7;
+--display:"Source Serif 4",Georgia,serif;--body:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15181d;--panel:#1f232a;--fg:#eceef2;--mut:#a4aab6;--line:#343944;--acc:#7fb0ee;--up:#6fd6ae;--upbg:#173a2e;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--neu:#565c69;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#15181d;--panel:#1f232a;--fg:#eceef2;--mut:#a4aab6;--line:#343944;--acc:#7fb0ee;--up:#6fd6ae;--upbg:#173a2e;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--neu:#565c69;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 var(--body);padding-block:40px 80px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:880px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+section{display:flex;flex-direction:column;gap:16px;min-width:0}
+h1{font:650 clamp(34px,6vw,50px)/1.08 var(--display);margin:0;text-wrap:balance}
+h2{font:650 27px/1.2 var(--display);margin:0;text-wrap:balance}
+h3{font:600 16px/1.3 var(--body);margin:0}
+p{margin:0;max-width:68ch} ul,ol{margin:0;padding-left:20px;max-width:68ch;display:flex;flex-direction:column;gap:8px}
+.lede{font-size:19px;line-height:1.5;max-width:62ch}.mut{color:var(--mut)}.small{font-size:14px}
+a{color:var(--acc)} :focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.tile{background:var(--panel);padding:14px 16px;border-radius:6px}.tile b{display:block;font:500 30px/1.1 var(--mono)}.tile span{font-size:14px;color:var(--mut)}
+.scroll{overflow-x:auto;min-width:0}
+table{border-collapse:collapse;width:100%;font-size:14.5px;font-variant-numeric:tabular-nums}
+th{font-weight:500;color:var(--mut);text-align:left;font-size:13px;padding:6px 10px;border-bottom:1px solid var(--line);vertical-align:bottom}
+td{padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}.n{text-align:right;font-family:var(--mono);font-size:13.5px;white-space:nowrap}th.n{font-family:var(--body)}.nw{white-space:nowrap}.wr{min-width:260px}
+.chart{width:100%;height:auto;min-width:640px;display:block}.small-chart{min-width:0;max-width:440px}
+.chart text{fill:var(--fg);font-family:var(--body);font-size:13px}.chart .tick{fill:var(--mut);font-size:12px}.chart .hd{fill:var(--mut);font-size:12px}.chart .st{font-family:var(--mono);font-weight:500}.chart .val{font-family:var(--mono);font-size:13px}.chart .chg{font-weight:500;fill:var(--up)}
+.grid{stroke:var(--line);stroke-width:1}.mid{stroke:var(--mut);stroke-width:1;stroke-dasharray:3 3}.diag{stroke:var(--mut);stroke-width:1.5;stroke-dasharray:4 4}
+.band{stroke:var(--s1);stroke-width:5;stroke-linecap:round;opacity:.28}.m1{fill:var(--s1);stroke:var(--bg);stroke-width:2}.m2{fill:var(--s2);stroke:var(--bg);stroke-width:2}.m3{fill:var(--s3);stroke:var(--bg);stroke-width:2}.you{fill:none;stroke:var(--fg);stroke-width:2}.m1s{fill:var(--s1);stroke:var(--bg);stroke-width:2}.neu{fill:var(--neu)}
+.hit{fill:transparent}.row:hover .hit,.row:focus .hit{fill:var(--panel)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--mut)}.legend span{display:inline-flex;gap:7px;align-items:center}.legend svg{width:18px;height:18px}
+.two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px;align-items:start}@media (max-width:720px){.two{grid-template-columns:minmax(0,1fr)}}
+.races{display:grid;grid-template-columns:minmax(0,1fr);gap:0}.race{padding-block:18px;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:10px}
+.race header{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;justify-content:space-between}.pill{font-size:13px;font-weight:500;padding:2px 10px;border-radius:12px;background:var(--panel)}.pill.up{background:var(--upbg);color:var(--up)}
+dl{display:flex;flex-wrap:wrap;gap:6px 26px;margin:0;font-size:13px}dl div{display:flex;flex-direction:column}dt{color:var(--mut)}dd{margin:0;font-family:var(--mono);font-size:14px}
+.eq{background:var(--panel);padding:12px 14px;border-radius:6px;font:13.5px/1.7 var(--mono);overflow-x:auto;white-space:pre}
+#tip{position:fixed;z-index:20;pointer-events:none;background:var(--fg);color:var(--bg);padding:8px 10px;border-radius:5px;font-size:13px;line-height:1.45;max-width:260px}#tip b{display:block;font-weight:600}
+</style>
+<main>
+<section>
+<h1>Senate Forecast Audit</h1>
+<p class="mut small">Forecast date November 2, 2026, the day before the election · 35 races · market prices from about noon PT</p>
+<p class="lede">I built an independent forecast from polls, fundamentals and forecaster ratings, then tested it on 14 past election cycles. Your picks hold up: no winner changes in any race. predictions.csv now has four raised probabilities and ten trimmed 100s, and the other 21 numbers are yours.</p>
+<div class="tiles">
+<div class="tile"><b>0</b><span>winner picks I'd change</span></div>
+<div class="tile"><b>4</b><span>probabilities raised: MI, SC, FL, MS</span></div>
+<div class="tile"><b>10</b><span>100s trimmed: MN, NH, GA, NC, AR, ID, KY, MT, OK, SD</span></div>
+<div class="tile"><b>{{PROP51}}%</b><span>chance Democrats win a majority (51+), on these numbers</span></div>
+</div>
+<p>One thing to know first: your 12 non-100 numbers are almost exactly the current prediction-market prices (average gap 0.8 points, Kalshi and Polymarket averaged). That means agreeing with the market can't justify them, because it's the same number. So I built the case from evidence that doesn't use market prices, and used the market only as a third opinion at the end.</p>
+<p><b>These numbers replaced an earlier version.</b> I first proposed larger raises (MI 93, TX 84, SC 88, FL 99, MS 98, LA 97), calibrated on Senate races alone. Testing on governor races showed that calibration was too confident, so I reduced them and dropped the TX and LA raises.</p>
+</section>
+
+<section>
+<h2>Where the evidence agrees and disagrees</h2>
+<p>Each row shows the chance that your predicted winner wins. Where your diamond sits left of the other marks, the evidence says you could be more confident. Hover or focus a row for the values.</p>
+<div class="legend"><span><svg viewBox="0 0 18 18"><path d="M9 2 L16 9 L9 16 L2 9 Z" fill="none" stroke="currentColor" stroke-width="2"/></svg>Yours</span><span><svg viewBox="0 0 18 18"><line x1="1" x2="17" y1="9" y2="9" stroke="var(--s1)" stroke-width="5" opacity=".28"/><circle cx="9" cy="9" r="5" fill="var(--s1)"/></svg>My model, with range from governor-only to Senate-only calibration</span><span><svg viewBox="0 0 18 18"><rect x="4" y="4" width="10" height="10" fill="var(--s2)"/></svg>14 forecasters' ratings, calibrated on 2010–24</span><span><svg viewBox="0 0 18 18"><path d="M9 3 L15.5 14.5 L2.5 14.5 Z" fill="var(--s3)"/></svg>Market</span></div>
+<div class="scroll">{{C1}}</div>
+</section>
+
+<section>
+<h2>The four raises</h2>
+<p>In each of these, the market sits below both my model and the ratings. Raising a number pays off under squared-error scoring only if the true probability is above the break-even shown. The last column is how far polls would have to miss against your pick, beyond normal polling error, for my model to match your original number.</p>
+<div class="scroll"><table><thead><tr><th>Race</th><th class=n>Original</th><th class=n>Now</th><th class=n>Model</th><th class=n>Ratings</th><th class=n>Market</th><th class=n>Break-even</th><th class=n>Extra miss needed (pts)</th></tr></thead><tbody>{{IMP}}</tbody></table></div>
+<p>The market could still be right. Its price is below break-even in all four, so if it's the truth, these raises cost you. Across all 35 races, here is the expected total squared-error penalty (lower is better) under each view of the truth:</p>
+<div class="scroll"><table><thead><tr><th>If the truth is…</th><th class=n>Your originals</th><th class=n>These numbers</th></tr></thead><tbody>
+<tr><td>My model</td><td class=n>{{B_MODEL_U}}</td><td class=n>{{B_MODEL_P}}</td></tr><tr><td>Ratings</td><td class=n>{{B_RAT_U}}</td><td class=n>{{B_RAT_P}}</td></tr><tr><td>Average of all three</td><td class=n>{{B_PO_U}}</td><td class=n>{{B_PO_P}}</td></tr><tr><td>Market</td><td class=n>{{B_MK_U}}</td><td class=n>{{B_MK_P}}</td></tr></tbody></table></div>
+<p>The differences are small, and this table is partly circular, since each row assumes its own source is right. Expect the outcome to depend far more on which races break which way than on this choice.</p>
+</section>
+
+<section>
+<h2>The 12 competitive races</h2>
+<p>For the eight numbers I kept, this is what reproduces each one from the model. A positive figure means your number assumes your pick runs that many points behind the model's estimate. A negative figure means it assumes your pick runs ahead of it. All are within the normal size of a polling miss, but the Nebraska figure is mostly the disputed independent adjustment.</p>
+<div class="scroll"><table><thead><tr><th>Race</th><th class=n>Yours</th><th class=n>Model</th><th class=n>Range</th><th class=n>Shift to reproduce (pts)</th><th>Sources within 4 points of yours</th></tr></thead><tbody>{{REPRO}}</tbody></table></div>
+<div class="races">{{CARDS}}</div>
+</section>
+
+<section>
+<h2>The 23 races you called at 100</h2>
+<p>A 100 claims at least 99.5%. I kept 13 and trimmed 10. Markets price most of these at 91 to 99, but long-shot contracts are known to trade rich, and the record supports going higher in safe races: in 2010–24, the 218 Senate races with an average rating of Lean or stronger produced no upsets, and FiveThirtyEight's 48 final forecasts at 99%+ (2018–22) all came true. Governor races add a warning for polled leads, though: 4 of 45 leads of 8 to 12 points lost, which is why GA and NC moved to 99.</p>
+<p>You're being scored on Brier, so a 100 isn't catastrophic if it loses. It costs 1.00 for that race, against 0.98 for a 99. I'd have capped everything at 99 under log-loss.</p>
+<div class="scroll"><table><thead><tr><th>Race</th><th class=n>Now</th><th class=n>Model</th><th class=n>Ratings</th><th class=n>Market</th><th>Basis</th></tr></thead><tbody>{{SAFE}}</tbody></table></div>
+</section>
+
+<section>
+<h2>Seats</h2>
+<p>On these numbers, Democrats average {{PROPMEAN}} seats, with an 80% range of {{Q10}} to {{Q90}}. They need 51, because Vice President Vance breaks a 50–50 tie. The model counts 34 Democratic seats not up this year and leaves independent winners out of the Democratic count.</p>
+<div class="legend"><span><svg viewBox="0 0 18 18"><rect x="3" y="3" width="12" height="12" rx="2" fill="var(--s1)"/></svg>Democratic majority</span><span><svg viewBox="0 0 18 18"><rect x="3" y="3" width="12" height="12" rx="2" fill="var(--neu)"/></svg>No Democratic majority</span></div>
+<div class="scroll">{{C3}}</div>
+<p>Chance of 51+: {{PROP51}}% on these numbers, {{USER51}}% on your originals, {{MODEL51}}% on my model alone. The markets price Senate control directly at 74.5% (Kalshi) and 78.5% (Polymarket), so all of these are close. My correlation between states may be somewhat low, which would push the true figure a little lower. The market's own race prices, run through my simulation, give {{MK51}}%, consistent with its control price.</p>
+</section>
+
+<section>
+<h2>How the model works</h2>
+<ol>
+<li><b>Polls.</b> A weighted average for each race: recent polls count more (14-day decay), larger samples count more, partisan sponsors count half and are adjusted by their measured bias (D-sponsored +2.1, R-sponsored −2.2), and repeat pollsters are discounted. Multi-round states use the final-round head-to-head.</li>
+<li><b>Fundamentals.</b> State lean from the last two presidential results, incumbency, and the fundraising ratio, fitted within each cycle. A one-unit log ratio of money is worth 5.4 points, but this reflects candidate strength as much as money buying votes.</li>
+<li><b>National environment.</b> Estimated from the race polls themselves: +3.9. As a cross-check, a D+8 generic ballot implies +4.1 on the same scale.</li>
+<li><b>Combining and error.</b> The two are weighted by precision, with error terms fitted by maximum likelihood. Close to Election Day, polls take 96 to 98% of the weight wherever they exist. Fundamentals only matter in the unpolled safe states.</li>
+<li><b>Simulation.</b> 400,000 correlated elections with fat-tailed errors and shared national, regional and partisan-lean shocks.</li>
+<li><b>Calibration.</b> A final adjustment to probabilities, fitted on Senate and governor races together. It is nearly neutral (k = 1.05).</li>
+<li><b>Combining sources.</b> An equal-weight average on the log-odds scale of my model, the ratings and the market. They all read the same polls, so the average doesn't count as stronger evidence than its parts.</li>
+</ol>
+<div class="eq">margin_i ~ w_i · polls_i + (1 − w_i) · fundamentals_i + shocks_i
+polls_i   = weighted_avg + 0.167 · undecided_i · lean_i       (undecideds break toward the state's lean)
+Var(poll) = 3.15² + 3.62²/n_eff + (0.15 · polls_i)²           (error grows with margin)
+shocks    = national(sd 2.43, t8) + lean(sd 0.60) + region(sd 0.13) + race(t12)
+P(win)    = logistic(k · logit Φ(margin / sd))                (k = 1.05 combined; Senate alone 1.50, governors alone 0.80; 1 if independent)</div>
+<p class="small mut">For independents I shift by −4.85 points (past comparable races, shrunk 25%) with a 4.5-point shared uncertainty. I dropped two earlier features after the governor test: a term letting leads grow beyond their poll margin, and a separate calibration for trailing incumbents. Trailing-incumbent races now only block updates; they no longer change the probabilities.</p>
+</section>
+
+<section>
+<h2>How it scored on past elections</h2>
+<p>I tested in two steps. First, each Senate cycle was forecast from a model fitted on the other 13: 452 races and 5,915 polls from 1998 to 2024. Then the frozen Senate settings were run on 333 governor races that played no part in fitting them.</p>
+<div class="tiles">
+<div class="tile"><b>93.8%</b><span>Senate winners called correctly</span></div>
+<div class="tile"><b>0.040</b><span>Senate Brier score (0.25 is a coin flip)</span></div>
+<div class="tile"><b>0.051</b><span>level with FiveThirtyEight's final forecasts (also 0.051) on the same 95 races, 2018–22</span></div>
+<div class="tile"><b>0.032</b><span>2024 only: missed just Pennsylvania</span></div>
+</div>
+<div class="two">
+<div class="scroll">{{C2}}</div>
+<div class="scroll"><table><thead><tr><th>Bin</th><th class=n>Races</th><th class=n>Predicted</th><th class=n>Actual</th></tr></thead><tbody id="caltbl"></tbody></table><p class="small mut" style="margin-top:12px">Senate races only, at the final calibration. The 50–90% range is well calibrated (71.7% predicted, 73.1% actual, n=104). The 90–99% range looks underconfident on Senate data (95.8% predicted, 100% actual, n=80), but governor races are why I didn't sharpen it.</p></div>
+</div>
+<h3>What the governor test showed</h3>
+<div class="scroll"><table><thead><tr><th>Poll lead (points)</th><th class=n>Senate</th><th class=n>Governor</th><th class=n>Pooled</th></tr></thead><tbody>
+<tr><td>0–2</td><td class=n>21/36 (58%)</td><td class=n>20/33 (61%)</td><td class=n>59%</td></tr>
+<tr><td>2–4</td><td class=n>24/32 (75%)</td><td class=n>24/40 (60%)</td><td class=n>67%</td></tr>
+<tr><td>4–6</td><td class=n>26/27 (96%)</td><td class=n>23/28 (82%)</td><td class=n>89%</td></tr>
+<tr><td>6–8</td><td class=n>20/20 (100%)</td><td class=n>31/31 (100%)</td><td class=n>100%</td></tr>
+<tr><td>8–12</td><td class=n>48/48 (100%)</td><td class=n>41/45 (91%)</td><td class=n>96%</td></tr>
+</tbody></table></div>
+<ul>
+<li><b>Sharpening failed to replicate.</b> The frozen Senate calibration scored significantly worse on governors than a milder one (log-loss difference +7.96, 90% CI +3.03 to +13.18). The governor-only fit actually calls for less confidence than the raw simulation.</li>
+<li><b>Lead growth failed to replicate.</b> Senate margins ran 1.10 to 1.15 times the polled margin; governors ran 0.97 to 1.05.</li>
+<li><b>The trailing-incumbent effect didn't stand out.</b> Trailing incumbents' challengers won 7 of 9 in governor races, about the same as other leaders (76%). Pooled with Senate that's 18 of 26 (69%), so the win rate is still modest, but I can't claim it's different from other close races.</li>
+<li><b>Independents partly replicated.</b> Adding the one governor race that fits (Walker, Alaska 2014, 1 point ahead of his polls) leaves the average miss near −5, on four races.</li>
+</ul>
+<p>Governor races are a different kind of contest: they're less tied to national party and their errors are larger (5.4 points against 4.3), so some of this gap may be real. I averaged the two instead of throwing out either.</p>
+<h3>Senate situations that match 2026</h3>
+<div class="scroll"><table><thead><tr><th>Situation</th><th class=n>Races</th><th class=n>Cycles</th><th class=n>Leader won</th><th class=n>90% CI</th></tr></thead><tbody>{{RC}}</tbody></table></div>
+<p>The forecaster ratings beat my model on the same 273 Senate races (Brier 0.040 against 0.046), which is why they get equal say.</p>
+</section>
+
+<section>
+<h2>What should make you doubt this</h2>
+<ul>
+<li><b>A shared polling miss is the main risk.</b> If polls overstate Democrats by 5.3 points, as they did on average in 2020, Talarico falls to about 28%, Brown to 20%, and El-Sayed to about 44%.</li>
+<li><b>The calibration is a compromise.</b> Senate alone says k = 1.50 and governors alone say 0.80, and the 1.05 I use is a pooled figure. If Senate races really are more predictable, these numbers are too cautious; the model ranges show how much.</li>
+<li><b>Some choices came after seeing data.</b> I made about 15 historical comparisons and tried three versions of the trailing-incumbent adjustment. I also wrote the decision rule after preliminary runs, so it isn't a true pre-registration. The governor test is the one properly out-of-sample check, and it's what cut the raises.</li>
+<li><b>Small samples.</b> The independent adjustment rests on four races. The Democrats-leading-in-red-states group has seven Senate races, all won, but the most recent is from 2012, so it says little about today's polling.</li>
+<li><b>Data limits.</b> 2026 polls come from Wikipedia tables, not a pollster archive. I found no final generic-ballot average, so D+8 comes from mid-to-late October trackers. The national House margins behind the +4.1 cross-check are from memory, not a downloaded source. The FEC file's coverage date didn't parse, so 2026 fundraising may be slightly out of date. Governor incumbency was inferred from past winners, which misses successors. None of these drives a polled Senate race much, because polls take over 96% of the weight there.</li>
+<li><b>Not modeled.</b> Early-vote data (up 50% in Texas and 44% in Maine per AP, but turnout doesn't say who voted for whom), pollster quality scores, and news from the last few hours.</li>
+</ul>
+</section>
+
+<section>
+<h2>Decision rule</h2>
+<p>I changed a non-100 number only if all four conditions held: the three-source average differs from yours by at least 4 points; the model and ratings are on the same side of your number; the race isn't a trailing-incumbent or independent race, where history gives weak support; and the pick stays the same. A polled 100 stays if the average is at least 99.5%, otherwise it's rounded to that average. Unpolled safe races keep their earlier values, because governor polling says nothing about races without polls.</p>
+</section>
+
+<section>
+<h2>Sources</h2>
+<ul class="small">
+<li>Polls, candidates, 14 forecasters' ratings: <a href="https://en.wikipedia.org/wiki/2026_United_States_Senate_elections">Wikipedia 2026 Senate pages</a></li>
+<li>Historical Senate and governor polls 1998–2022: <a href="https://github.com/fivethirtyeight/data/tree/master/pollster-ratings">FiveThirtyEight pollster-ratings data</a>; 2024 from Wikipedia race pages</li>
+<li>Forecast benchmark: <a href="https://github.com/fivethirtyeight/checking-our-work-data">FiveThirtyEight checking-our-work data</a></li>
+<li>Results: <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PEJ5QU">MIT Election Lab Senate</a> and <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX">President</a> returns</li>
+<li>Money and incumbency: <a href="https://www.fec.gov/data/browse-data/?tab=bulk-data">FEC bulk candidate summaries</a></li>
+<li>Markets: Kalshi and Polymarket public APIs, November 2, 2026</li>
+<li>Context: <a href="https://centerforpolitics.org/crystalball/2026finalratings/">Sabato's final ratings</a>, <a href="https://www.itv.com/news/2026-10-30/early-voting-jumps-as-millions-more-americans-vote-ahead-of-election-day">AP early-vote analysis</a>, <a href="https://abcnews4.com/news/local/south-carolina-poll-shows-andrews-and-sen-graham-in-dead-heat-ahead-of-election-day">South Carolina polling coverage</a>, <a href="https://katv.com/news/nation-world/troy-jackson-replaces-graham-platner-as-maine-democrats-us-senate-nominee-politics-elections-voting-vote-polls-republican-sen-susan-collins-progressive-candidates-socialists-socialism-medicare-for-all-sexual-assault-allegation-accusation">Maine nominee change</a></li>
+</ul>
+</section>
+</main>
+<div id="tip" hidden></div>
+<script>
+const tip=document.getElementById('tip');
+function show(el,x,y){const p=el.dataset.tip.split('|');tip.textContent='';const b=document.createElement('b');b.textContent=p[0];tip.appendChild(b);p.slice(1).forEach(t=>{const d=document.createElement('div');d.textContent=t;tip.appendChild(d)});tip.hidden=false;const r=tip.getBoundingClientRect();tip.style.left=Math.min(x+14,innerWidth-r.width-8)+'px';tip.style.top=Math.max(8,y-r.height-10)+'px'}
+document.querySelectorAll('[data-tip]').forEach(el=>{el.addEventListener('pointermove',e=>show(el,e.clientX,e.clientY));el.addEventListener('pointerleave',()=>tip.hidden=true);el.addEventListener('focus',()=>{const r=el.getBoundingClientRect();show(el,r.left+r.width/2,r.top)});el.addEventListener('blur',()=>tip.hidden=true)});
+</script>

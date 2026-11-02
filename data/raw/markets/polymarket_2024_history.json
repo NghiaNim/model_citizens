@@ -1,0 +1,818 @@
+[
+{
+"st": "AZ",
+"title": "Arizona Senate Election Winner",
+"q": "Ruben Gallego",
+"p": 0.745,
+"t": 1730804402,
+"vol": 6754633.942725
+},
+{
+"st": "AZ",
+"title": "Arizona Senate Election Winner",
+"q": "Kari Lake",
+"p": 0.255,
+"t": 1730804402,
+"vol": 8258327.18658
+},
+{
+"st": "AZ",
+"title": "Arizona Senate Election Winner",
+"q": "Other",
+"p": 0.2,
+"t": 1730804402,
+"vol": 4982822.83402
+},
+{
+"st": "CA",
+"title": "California Senate Election Winner",
+"q": "Democrat",
+"p": 0.981,
+"t": 1730804402,
+"vol": 44715.638877
+},
+{
+"st": "CA",
+"title": "California Senate Election Winner",
+"q": "Republican",
+"p": 0.018,
+"t": 1730804402,
+"vol": 56802.930338
+},
+{
+"st": "CA",
+"title": "California Senate Election Winner",
+"q": "Other",
+"p": 0.0065,
+"t": 1730804402,
+"vol": 23081.639774
+},
+{
+"st": "CT",
+"title": " Connecticut Senate Election Winner",
+"q": "Democrat",
+"p": 0.985,
+"t": 1730804402,
+"vol": 70674.340827
+},
+{
+"st": "CT",
+"title": " Connecticut Senate Election Winner",
+"q": "Republican",
+"p": 0.009,
+"t": 1730804402,
+"vol": 63047.763244
+},
+{
+"st": "CT",
+"title": " Connecticut Senate Election Winner",
+"q": "Other",
+"p": 0.003,
+"t": 1730804402,
+"vol": 41567.883323
+},
+{
+"st": "DE",
+"title": "Delaware Senate Election Winner",
+"q": "Democrat",
+"p": 0.9745,
+"t": 1730804402,
+"vol": 41546.377348
+},
+{
+"st": "DE",
+"title": "Delaware Senate Election Winner",
+"q": "Republican",
+"p": 0.0115,
+"t": 1730804402,
+"vol": 37592.855706
+},
+{
+"st": "DE",
+"title": "Delaware Senate Election Winner",
+"q": "Other",
+"p": 0.0055,
+"t": 1730804402,
+"vol": 86696.449043
+},
+{
+"st": "FL",
+"title": "Florida Senate Election Winner",
+"q": "Democrat",
+"p": 0.095,
+"t": 1730804402,
+"vol": 312748.693911
+},
+{
+"st": "FL",
+"title": "Florida Senate Election Winner",
+"q": "Republican",
+"p": 0.905,
+"t": 1730804402,
+"vol": 297222.151563
+},
+{
+"st": "FL",
+"title": "Florida Senate Election Winner",
+"q": "Other",
+"p": 0.004,
+"t": 1730804402,
+"vol": 728257.22095
+},
+{
+"st": "HI",
+"title": "Hawaii Senate Election Winner",
+"q": "Democrat",
+"p": 0.993,
+"t": 1730804402,
+"vol": 51357.776339
+},
+{
+"st": "HI",
+"title": "Hawaii Senate Election Winner",
+"q": "Republican",
+"p": 0.0045,
+"t": 1730804402,
+"vol": 44525.951544
+},
+{
+"st": "HI",
+"title": "Hawaii Senate Election Winner",
+"q": "Other",
+"p": 0.003,
+"t": 1730804402,
+"vol": 396299.508872
+},
+{
+"st": "IN",
+"title": "Indiana Senate Election Winner",
+"q": "Democrat",
+"p": 0.0215,
+"t": 1730804402,
+"vol": 38608.555039
+},
+{
+"st": "IN",
+"title": "Indiana Senate Election Winner",
+"q": "Republican",
+"p": 0.978,
+"t": 1730804402,
+"vol": 31399.864486
+},
+{
+"st": "IN",
+"title": "Indiana Senate Election Winner",
+"q": "Other",
+"p": 0.0015,
+"t": 1730804402,
+"vol": 5198.860956
+},
+{
+"st": "ME",
+"title": "Maine Senate Election Winner",
+"q": "Democrat (includes King)",
+"p": 0.9635,
+"t": 1730804402,
+"vol": 113077.765535
+},
+{
+"st": "ME",
+"title": "Maine Senate Election Winner",
+"q": "Republican",
+"p": 0.0285,
+"t": 1730804402,
+"vol": 19933.886179
+},
+{
+"st": "ME",
+"title": "Maine Senate Election Winner",
+"q": "Other",
+"p": 0.0095,
+"t": 1730804402,
+"vol": 138199.08668
+},
+{
+"st": "MD",
+"title": "Maryland Senate Election Winner",
+"q": "Democrat",
+"p": 0.935,
+"t": 1730804402,
+"vol": 241087.973033
+},
+{
+"st": "MD",
+"title": "Maryland Senate Election Winner",
+"q": "Republican",
+"p": 0.065,
+"t": 1730804402,
+"vol": 311778.388761
+},
+{
+"st": "MD",
+"title": "Maryland Senate Election Winner",
+"q": "Other",
+"p": 0.003,
+"t": 1730804402,
+"vol": 248786.965244
+},
+{
+"st": "MA",
+"title": "Massachusetts Senate Election Winner",
+"q": "Democrat",
+"p": 0.9805,
+"t": 1730804402,
+"vol": 160834.457606
+},
+{
+"st": "MA",
+"title": "Massachusetts Senate Election Winner",
+"q": "Republican",
+"p": 0.019,
+"t": 1730804402,
+"vol": 243030.229453
+},
+{
+"st": "MA",
+"title": "Massachusetts Senate Election Winner",
+"q": "Other",
+"p": 0.002,
+"t": 1730804402,
+"vol": 327358.528444
+},
+{
+"st": "MI",
+"title": "Michigan Senate Election Winner",
+"q": "Elissa Slotkin",
+"p": 0.775,
+"t": 1730804402,
+"vol": 394971.301424
+},
+{
+"st": "MI",
+"title": "Michigan Senate Election Winner",
+"q": "Mike Rogers",
+"p": 0.215,
+"t": 1730804402,
+"vol": 684107.752029
+},
+{
+"st": "MI",
+"title": "Michigan Senate Election Winner",
+"q": "Other",
+"p": 0.002,
+"t": 1730804402,
+"vol": 676897.319904
+},
+{
+"st": "MN",
+"title": "Minnesota Senate Election Winner",
+"q": "Democrat",
+"p": 0.977,
+"t": 1730804402,
+"vol": 68619.191863
+},
+{
+"st": "MN",
+"title": "Minnesota Senate Election Winner",
+"q": "Republican",
+"p": 0.016,
+"t": 1730804402,
+"vol": 75975.728738
+},
+{
+"st": "MN",
+"title": "Minnesota Senate Election Winner",
+"q": "Other",
+"p": 0.002,
+"t": 1730804402,
+"vol": 186047.600661
+},
+{
+"st": "MS",
+"title": "Mississippi Senate Election Winner",
+"q": "Democrat",
+"p": 0.0075,
+"t": 1730804402,
+"vol": 69019.400961
+},
+{
+"st": "MS",
+"title": "Mississippi Senate Election Winner",
+"q": "Republican",
+"p": 0.9705,
+"t": 1730804402,
+"vol": 79247.018876
+},
+{
+"st": "MS",
+"title": "Mississippi Senate Election Winner",
+"q": "Other",
+"p": 0.01,
+"t": 1730804402,
+"vol": 136274.054881
+},
+{
+"st": "MO",
+"title": "Missouri Senate Election Winner",
+"q": "Democrat",
+"p": 0.039,
+"t": 1730804402,
+"vol": 77603.24321
+},
+{
+"st": "MO",
+"title": "Missouri Senate Election Winner",
+"q": "Republican",
+"p": 0.9445,
+"t": 1730804402,
+"vol": 51549.040927
+},
+{
+"st": "MO",
+"title": "Missouri Senate Election Winner",
+"q": "Other",
+"p": 0.0015,
+"t": 1730804402,
+"vol": 115067.483117
+},
+{
+"st": "MT",
+"title": "Montana Senate Election Winner",
+"q": "Democrat",
+"p": 0.18,
+"t": 1730804402,
+"vol": 686243.598846
+},
+{
+"st": "MT",
+"title": "Montana Senate Election Winner",
+"q": "Republican",
+"p": 0.83,
+"t": 1730804402,
+"vol": 621186.16041
+},
+{
+"st": "MT",
+"title": "Montana Senate Election Winner",
+"q": "Other",
+"p": 0.002,
+"t": 1730804402,
+"vol": 2701136.853558
+},
+{
+"st": "NE",
+"title": "Nebraska Senate Election Winner",
+"q": "Democrat",
+"p": 0.004,
+"t": 1730804402,
+"vol": 1212360.591797
+},
+{
+"st": "NE",
+"title": "Nebraska Senate Election Winner",
+"q": "Republican",
+"p": 0.819,
+"t": 1730804402,
+"vol": 580010.738526
+},
+{
+"st": "NE",
+"title": "Nebraska Senate Election Winner",
+"q": "Other",
+"p": 0.173,
+"t": 1730804402,
+"vol": 679299.259212
+},
+{
+"st": "NV",
+"title": "Nevada Senate Election Winner",
+"q": "Jacky Rosen",
+"p": 0.815,
+"t": 1730804402,
+"vol": 1540056.717832
+},
+{
+"st": "NV",
+"title": "Nevada Senate Election Winner",
+"q": "Sam Brown",
+"p": 0.175,
+"t": 1730804402,
+"vol": 1056287.755275
+},
+{
+"st": "NV",
+"title": "Nevada Senate Election Winner",
+"q": "Other",
+"p": 0.0025,
+"t": 1730804402,
+"vol": 295575.655242
+},
+{
+"st": "NJ",
+"title": "New Jersey Senate Election Winner",
+"q": "Democrat",
+"p": 0.9545,
+"t": 1730804402,
+"vol": 130387.473926
+},
+{
+"st": "NJ",
+"title": "New Jersey Senate Election Winner",
+"q": "Republican",
+"p": 0.043,
+"t": 1730804402,
+"vol": 211102.259154
+},
+{
+"st": "NJ",
+"title": "New Jersey Senate Election Winner",
+"q": "Other",
+"p": 0.0025,
+"t": 1730804402,
+"vol": 106697.553641
+},
+{
+"st": "NM",
+"title": "New Mexico Senate Election Winner",
+"q": "Democrat",
+"p": 0.94,
+"t": 1730804402,
+"vol": 30819.003566
+},
+{
+"st": "NM",
+"title": "New Mexico Senate Election Winner",
+"q": "Republican",
+"p": 0.045,
+"t": 1730804402,
+"vol": 47505.221822
+},
+{
+"st": "NM",
+"title": "New Mexico Senate Election Winner",
+"q": "Other",
+"p": 0.0025,
+"t": 1730804402,
+"vol": 38668.669832
+},
+{
+"st": "NY",
+"title": "New York Senate Election Winner",
+"q": "Democrat",
+"p": 0.9745,
+"t": 1730804402,
+"vol": 80896.676081
+},
+{
+"st": "NY",
+"title": "New York Senate Election Winner",
+"q": "Republican",
+"p": 0.019,
+"t": 1730804402,
+"vol": 100506.14701
+},
+{
+"st": "NY",
+"title": "New York Senate Election Winner",
+"q": "Other",
+"p": 0.003,
+"t": 1730804402,
+"vol": 90745.392327
+},
+{
+"st": "ND",
+"title": "North Dakota Senate Election Winner",
+"q": "Democrat",
+"p": 0.017,
+"t": 1730804402,
+"vol": 6413.679725
+},
+{
+"st": "ND",
+"title": "North Dakota Senate Election Winner",
+"q": "Republican",
+"p": 0.9765,
+"t": 1730804402,
+"vol": 18634.293199
+},
+{
+"st": "ND",
+"title": "North Dakota Senate Election Winner",
+"q": "Other",
+"p": 0.0025,
+"t": 1730804402,
+"vol": 25182.932331
+},
+{
+"st": "OH",
+"title": "Ohio Senate Election Winner",
+"q": "Democrat",
+"p": 0.385,
+"t": 1730804402,
+"vol": 892763.549064
+},
+{
+"st": "OH",
+"title": "Ohio Senate Election Winner",
+"q": "Republican",
+"p": 0.615,
+"t": 1730804402,
+"vol": 1556618.387565
+},
+{
+"st": "OH",
+"title": "Ohio Senate Election Winner",
+"q": "Other",
+"p": 0.0015,
+"t": 1730804402,
+"vol": 13006615.346782
+},
+{
+"st": "PA",
+"title": "Pennsylvania Senate Election Winner",
+"q": "Bob Casey",
+"p": 0.765,
+"t": 1730804402,
+"vol": 2306432.147386
+},
+{
+"st": "PA",
+"title": "Pennsylvania Senate Election Winner",
+"q": "Dave McCormick",
+"p": 0.23,
+"t": 1730804402,
+"vol": 2564648.942464
+},
+{
+"st": "PA",
+"title": "Pennsylvania Senate Election Winner",
+"q": "Other",
+"p": 0.0015,
+"t": 1730804402,
+"vol": 613378.130366
+},
+{
+"st": "RI",
+"title": "Rhode Island Senate Election Winner",
+"q": "Democrat",
+"p": 0.985,
+"t": 1730804402,
+"vol": 31711.766014
+},
+{
+"st": "RI",
+"title": "Rhode Island Senate Election Winner",
+"q": "Republican",
+"p": 0.009,
+"t": 1730804402,
+"vol": 36579.78501
+},
+{
+"st": "RI",
+"title": "Rhode Island Senate Election Winner",
+"q": "Other",
+"p": 0.0055,
+"t": 1730804402,
+"vol": 42978.026648
+},
+{
+"st": "TN",
+"title": "Tennessee Senate Election Winner",
+"q": "Democrat",
+"p": 0.0065,
+"t": 1730804402,
+"vol": 42019.867854
+},
+{
+"st": "TN",
+"title": "Tennessee Senate Election Winner",
+"q": "Republican",
+"p": 0.988,
+"t": 1730804402,
+"vol": 40754.597404
+},
+{
+"st": "TN",
+"title": "Tennessee Senate Election Winner",
+"q": "Other",
+"p": 0.005,
+"t": 1730804402,
+"vol": 57229.694738
+},
+{
+"st": "TX",
+"title": "Texas Senate Election Winner",
+"q": "Democrat",
+"p": 0.155,
+"t": 1730804402,
+"vol": 624430.271402
+},
+{
+"st": "TX",
+"title": "Texas Senate Election Winner",
+"q": "Republican",
+"p": 0.85,
+"t": 1730804402,
+"vol": 371151.674198
+},
+{
+"st": "TX",
+"title": "Texas Senate Election Winner",
+"q": "Other",
+"p": 0.0025,
+"t": 1730804402,
+"vol": 562885.522378
+},
+{
+"st": "UT",
+"title": "Utah Senate Election Winner",
+"q": "Democrat",
+"p": 0.012,
+"t": 1730804402,
+"vol": 19089.7196
+},
+{
+"st": "UT",
+"title": "Utah Senate Election Winner",
+"q": "Republican",
+"p": 0.9805,
+"t": 1730804402,
+"vol": 46078.949163
+},
+{
+"st": "UT",
+"title": "Utah Senate Election Winner",
+"q": "Other",
+"p": 0.0095,
+"t": 1730804402,
+"vol": 43455.810776
+},
+{
+"st": "VT",
+"title": "Vermont Senate Election Winner",
+"q": "Democrat (includes Sanders)",
+"p": 0.98,
+"t": 1730804402,
+"vol": 46635.849015
+},
+{
+"st": "VT",
+"title": "Vermont Senate Election Winner",
+"q": "Republican",
+"p": 0.005,
+"t": 1730804402,
+"vol": 18716.391043
+},
+{
+"st": "VT",
+"title": "Vermont Senate Election Winner",
+"q": "Other",
+"p": 0.0065,
+"t": 1730804402,
+"vol": 92882.401565
+},
+{
+"st": "VA",
+"title": "Virginia Senate Election Winner",
+"q": "Democrat",
+"p": 0.935,
+"t": 1730804402,
+"vol": 57687.974079
+},
+{
+"st": "VA",
+"title": "Virginia Senate Election Winner",
+"q": "Republican",
+"p": 0.05,
+"t": 1730804402,
+"vol": 71515.839387
+},
+{
+"st": "VA",
+"title": "Virginia Senate Election Winner",
+"q": "Other",
+"p": 0.002,
+"t": 1730804402,
+"vol": 64601.884447
+},
+{
+"st": "VA",
+"title": "West Virginia Senate Election Winner",
+"q": "Democrat",
+"p": 0.007,
+"t": 1730804402,
+"vol": 16087.664884
+},
+{
+"st": "VA",
+"title": "West Virginia Senate Election Winner",
+"q": "Republican",
+"p": 0.981,
+"t": 1730804402,
+"vol": 24723.913394
+},
+{
+"st": "VA",
+"title": "West Virginia Senate Election Winner",
+"q": "Other",
+"p": 0.0045,
+"t": 1730804402,
+"vol": 66394.097852
+},
+{
+"st": "WA",
+"title": "Washington Senate Election Winner",
+"q": "Democrat",
+"p": 0.981,
+"t": 1730804402,
+"vol": 16375.635913
+},
+{
+"st": "WA",
+"title": "Washington Senate Election Winner",
+"q": "Republican",
+"p": 0.017,
+"t": 1730804402,
+"vol": 19818.495313
+},
+{
+"st": "WA",
+"title": "Washington Senate Election Winner",
+"q": "Other",
+"p": 0.008,
+"t": 1730804402,
+"vol": 24584.878255
+},
+{
+"st": "WV",
+"title": "West Virginia Senate Election Winner",
+"q": "Democrat",
+"p": 0.007,
+"t": 1730804402,
+"vol": 16087.664884
+},
+{
+"st": "WV",
+"title": "West Virginia Senate Election Winner",
+"q": "Republican",
+"p": 0.981,
+"t": 1730804402,
+"vol": 24723.913394
+},
+{
+"st": "WV",
+"title": "West Virginia Senate Election Winner",
+"q": "Other",
+"p": 0.0045,
+"t": 1730804402,
+"vol": 66394.097852
+},
+{
+"st": "WI",
+"title": "Wisconsin Senate Election Winner",
+"q": "Tammy Baldwin",
+"p": 0.735,
+"t": 1730804402,
+"vol": 255765.590753
+},
+{
+"st": "WI",
+"title": "Wisconsin Senate Election Winner",
+"q": "Eric Hovde",
+"p": 0.255,
+"t": 1730804402,
+"vol": 444672.057025
+},
+{
+"st": "WI",
+"title": "Wisconsin Senate Election Winner",
+"q": "Other",
+"p": 0.0025,
+"t": 1730804402,
+"vol": 320851.222588
+},
+{
+"st": "WY",
+"title": "Wyoming Senate Election Winner",
+"q": "Democrat",
+"p": 0.0055,
+"t": 1730804402,
+"vol": 38039.707871
+},
+{
+"st": "WY",
+"title": "Wyoming Senate Election Winner",
+"q": "Republican",
+"p": 0.986,
+"t": 1730804402,
+"vol": 23899.522802
+},
+{
+"st": "WY",
+"title": "Wyoming Senate Election Winner",
+"q": "Other",
+"p": 0.003,
+"t": 1730804402,
+"vol": 23375.166006
+}
+]

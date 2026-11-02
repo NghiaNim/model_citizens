@@ -1,0 +1,123 @@
+<main>
+<section>
+<h1>2026 Senate Forecast</h1>
+<p class="mut small">Forecast date November 2, 2026 · 35 races · market prices from about noon PT</p>
+<p class="lede">Democrats are favored to win the Senate, with about {{P51}}% odds of a majority and an expected {{MEAN}} seats. This forecast combines a poll-based model, calibrated forecaster ratings and prediction markets, with each step tested against past elections.</p>
+<div class="tiles">
+<div class="tile"><b>{{P51}}%</b><span>chance Democrats reach 51 seats; markets say 74.5–78.5%</span></div>
+<div class="tile"><b>{{MEAN}}</b><span>expected Democratic seats, 80% range {{Q10}}–{{Q90}}</span></div>
+<div class="tile"><b>93.8%</b><span>of winners called in the 1998–2024 Senate backtest</span></div>
+<div class="tile"><b>13</b><span>contested races below 98%; the other 22 are clear</span></div>
+</div>
+<p>Three picks deserve the most caution. Iowa is close to a coin flip, and the forecaster ratings decide it for Hinson. Nebraska's 89 depends on an adjustment for independents built from four past races. Maine's 82 sits well above Polymarket's 73.5.</p>
+</section>
+
+<section>
+<h2>How the forecast is built</h2>
+<div class="scroll"><pre class="mermaid">
+flowchart LR
+  A[Polls] --> B[Poll average]
+  C[Results and money] --> D[Fundamentals]
+  B --> E[Model]
+  D --> E
+  E --> F[Calibration]
+  G[Forecaster ratings] --> H[Calibrated ratings]
+  I[Kalshi and Polymarket] --> J[Market price]
+  F --> K[Log-odds average]
+  H --> K
+  J --> K
+  K --> L[Prediction]
+</pre></div>
+<ol>
+<li><b>Poll average.</b> Recent polls and larger samples count more. Sponsored polls count half and are corrected for their measured lean (D +2.1, R −2.2). Ranked-choice states use the final-round match-up.</li>
+<li><b>Fundamentals.</b> State lean, incumbency and fundraising, fitted on 452 past races. The national environment comes from the race polls: +3.9, against +4.1 implied by a D+8 generic ballot.</li>
+<li><b>Model.</b> Polls and fundamentals are weighted by precision. Polls get 96–98% wherever they're plentiful, so fundamentals drive only unpolled races.</li>
+<li><b>Independent candidates.</b> Shifted by −4.85 points with wide uncertainty, because comparable candidates ran behind their polls.</li>
+<li><b>Calibration.</b> A final adjustment fitted on Senate and governor races together (k = 1.05).</li>
+<li><b>Forecaster ratings.</b> Fourteen forecasters' ratings, mapped to probabilities using 267 Senate races from 2010–24.</li>
+<li><b>Markets.</b> The average of Kalshi's midpoint and Polymarket's price.</li>
+<li><b>Final number.</b> An equal-weight average of model, ratings and market on the log-odds scale.</li>
+</ol>
+<div class="eq">w          ∝ exp(−age/14) · √(N/600) · ½^sponsored · (polls by pollster)^(−½)
+V_poll     = 3.15² + 3.62²/n_eff + (0.15·p)²        V_fund = 19.3²
+shocks     = national (SD 2.43, t8) + lean (0.60) + region (0.13) + race (t12)
+P(model)   = logistic(k · logit Φ(margin/SD))       k = 1.05; 1 for independents
+P(final)   = logistic(mean of logit[model, ratings, market])</div>
+</section>
+
+<section>
+<h2>The contested races</h2>
+<p>Each row shows the chance that the predicted winner wins. Hover or focus a row for the values.</p>
+<div class="legend"><span><svg viewBox="0 0 18 18"><path d="M9 2 L16 9 L9 16 L2 9 Z" fill="none" stroke="currentColor" stroke-width="2"/></svg>Final</span><span><svg viewBox="0 0 18 18"><line x1="1" x2="17" y1="9" y2="9" stroke="var(--s1)" stroke-width="5" opacity=".28"/><circle cx="9" cy="9" r="5" fill="var(--s1)"/></svg>Model, with range from governor-only to Senate-only calibration</span><span><svg viewBox="0 0 18 18"><rect x="4" y="4" width="10" height="10" fill="var(--s2)"/></svg>Ratings</span><span><svg viewBox="0 0 18 18"><path d="M9 3 L15.5 14.5 L2.5 14.5 Z" fill="var(--s3)"/></svg>Market</span></div>
+<div class="scroll">{{C1}}</div>
+<div class="races">{{CARDS}}</div>
+</section>
+
+<section>
+<h2>The clear races</h2>
+<p>These follow from the state's partisanship, the candidates and the polls, and the Polymarket price agrees with each one. Traders see the same polls, so the price is agreement, not independent proof. Every race here has an average rating of Lean or stronger for the favorite, and all 218 such Senate races from 2010–24 went to the favorite. Averages of 99.5 or more round to 100, and that record can't show the risk is zero.</p>
+{{CLEAR}}
+</section>
+
+<section>
+<h2>All 35 predictions</h2>
+<p>Probabilities are for the predicted winner, in percent. Polls are the weighted D−R or I−R margin, and lean is the state's margin relative to the nation.</p>
+{{PRED}}
+</section>
+
+<section>
+<h2>Seats</h2>
+<p>Democrats win an expected {{MEAN}} seats, with an 80% range of {{Q10}} to {{Q90}}. They need 51, because the Vice President breaks a 50–50 tie. Their chance of a majority is {{P51}}%, with a {{P50}}% chance of exactly 50. The count starts from 34 Democratic seats not up this year and leaves independent winners out; at least one independent wins in {{IND}}% of simulations.</p>
+<div class="legend"><span><svg viewBox="0 0 18 18"><rect x="3" y="3" width="12" height="12" rx="2" fill="var(--s1)"/></svg>Democratic majority</span><span><svg viewBox="0 0 18 18"><rect x="3" y="3" width="12" height="12" rx="2" fill="var(--neu)"/></svg>No Democratic majority</span></div>
+<div class="scroll">{{C3}}</div>
+<p>Markets price the majority at 74.5% (Kalshi) and 78.5% (Polymarket). Past cycle-to-cycle polling bias (SD 2.83) is above the 2.43 fitted here, so seat outcomes may be more correlated than simulated, and {{P51}}% may be a little high.</p>
+</section>
+
+<section>
+<h2>Evidence for each step</h2>
+<h3>Senate backtest</h3>
+<p>Each cycle from 1998 to 2024 was forecast from a model fitted on the other cycles: 452 races and 5,915 polls.</p>
+<div class="tiles">
+<div class="tile"><b>0.040</b><span>Brier score (0.25 is a coin flip)</span></div>
+<div class="tile"><b>0.051</b><span>tied FiveThirtyEight's final forecasts on the same 95 races</span></div>
+<div class="tile"><b>0.032</b><span>2024 only: missed just Pennsylvania</span></div>
+</div>
+<div class="two">
+<div class="scroll">{{C2}}</div>
+<div class="scroll"><table><thead><tr><th>Bin</th><th class=n>Races</th><th class=n>Predicted</th><th class=n>Actual</th></tr></thead><tbody>{{CALTBL}}</tbody></table><p class="small mut" style="margin-top:12px">The 50–90% range is well calibrated (71.7% predicted, 73.1% actual, n=104). The 90–99% range looks underconfident on Senate data (95.8% predicted, 100% actual, n=80), but governor races are why it isn't sharpened.</p></div>
+</div>
+<h3>Governor races: the out-of-sample test</h3>
+<p>Calibration settings fitted on Senate races were run on 333 governor races that played no part in fitting them. Two features failed and were dropped: leads growing beyond the polls, and sharper Senate-only calibration (log-loss difference +7.96, 90% CI +3.03 to +13.18). Senate alone gives k = 1.50 and governors 0.80, so the forecast uses the pooled 1.05. Governor races are less tied to national party and have larger errors (5.4 points against 4.3), so some of this gap may be real.</p>
+{{GOV}}
+<h3>Market prices</h3>
+<p>Markets can reflect information polls miss, such as late news and early voting. I tested them on 32 Senate races in 2024, using Polymarket prices from the morning of the election. Polymarket alone was the weakest input, and adding it barely changed the score, so this shows that including it does no harm, not that it helps. Its favorites at 90% or higher won 24 of 24. This is one cycle, and it uses the final calibration, which was partly fitted on 2024.</p>
+{{MARKET}}
+<h3>Forecaster ratings</h3>
+<p>The ratings beat the model on the same 273 Senate races (Brier 0.040 against 0.046), which is why they get equal say. Equal weights are used because one cycle of market data can't support fitted weights, and simple averages are hard to beat in forecast combination (Clemen, 1989).</p>
+<h3>Hand-set settings</h3>
+<p>These were set by hand and then tested against results in competitive races. Error barely changes across the range, so no setting drives the forecast. A 21-day window scores best, but 60 days keeps polls available for thinly polled races.</p>
+{{SETTINGS}}
+<h3>Comparable past Senate races</h3>
+<p>Leaders here are defined by adjusted margin from the earlier Senate-only stage of the model, which is why the bands differ slightly from the raw poll-lead table above.</p>
+<div class="scroll"><table><thead><tr><th>Situation</th><th class=n>Races</th><th class=n>Cycles</th><th class=n>Leader won</th><th class=n>90% CI</th></tr></thead><tbody>{{RC}}</tbody></table></div>
+</section>
+
+<section>
+<h2>What could be wrong</h2>
+<ul>
+<li><b>A shared polling miss is the main risk.</b> If polls overstate Democrats by 5.3 points, as they did in 2020, the model alone drops Talarico to about 28%, El-Sayed to 44% and Brown to 20%.</li>
+<li><b>Calibration is a compromise.</b> If Senate races really are more predictable than governor races, these numbers are too cautious.</li>
+<li><b>Some numbers rest on thin evidence.</b> That applies most to IA (pick decided by ratings), LA (three polls), NE (four comparable races), SC and ME.</li>
+<li><b>The sources aren't independent.</b> Model, ratings and market all read the same polls, so their average isn't stronger evidence than its parts.</li>
+<li><b>Choices followed the data.</b> Settings were hand-set first and tested afterward, and I made about 15 historical comparisons while developing this. Only the governor races and the 2024 market prices were not used in building the core model.</li>
+<li><b>Some inputs are approximate.</b> 2026 polls come from Wikipedia tables. D+8 comes from October trackers, with no final generic-ballot average found. House margins in the environment cross-check were entered from memory. The FEC coverage date didn't parse. Governor incumbency was inferred from past winners.</li>
+<li><b>Market gaps.</b> Louisiana has no Kalshi price in the feed. Alaska's Kalshi market (71–72) wasn't merged because it's listed by party; this changes the result by under 0.1 point.</li>
+<li><b>Not modeled.</b> Early-vote data, pollster quality scores, and news after the data was collected.</li>
+</ul>
+</section>
+
+<section>
+<h2>Sources</h2>
+{{DATA}}
+</section>
+</main>

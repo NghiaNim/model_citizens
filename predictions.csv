@@ -1,36 +1,36 @@
 race_id,chamber,predicted_winner_party,candidate_name,win_probability
-AK-SEN,Senate,Democratic,Mary Sattler Peltola,72
+AK-SEN,Senate,Democratic,Mary Sattler Peltola,69
 AL-SEN,Senate,Republican,Barry Moore,100
 AR-SEN,Senate,Republican,Tom Cotton,99
 CO-SEN,Senate,Democratic,John Hickenlooper,100
-DE-SEN,Senate,Democratic,Chris Coons,100
+DE-SEN,Senate,Democratic,Chris Coons,99
 FL-SEN,Senate,Republican,Ashley Moody,97
 GA-SEN,Senate,Democratic,Jon Ossoff,99
-IA-SEN,Senate,Democratic,Josh Turek,52
+IA-SEN,Senate,Republican,Ashley Hinson,58
 ID-SEN,Senate,Republican,Jim Risch,99
 IL-SEN,Senate,Democratic,Juliana Stratton,100
-KS-SEN,Senate,Democratic,Adam Hamilton,63
-KY-SEN,Senate,Republican,Andy Barr,99
-LA-SEN,Senate,Republican,Julia Letlow,88
+KS-SEN,Senate,Democratic,Adam Hamilton,64
+KY-SEN,Senate,Republican,Andy Barr,98
+LA-SEN,Senate,Republican,Julia Letlow,95
 MA-SEN,Senate,Democratic,Ed Markey,100
-ME-SEN,Senate,Democratic,Troy Dale Jackson,73
+ME-SEN,Senate,Democratic,Troy Dale Jackson,82
 MI-SEN,Senate,Democratic,Abdul El-Sayed,87
 MN-SEN,Senate,Democratic,Peggy Flanagan,96
 MS-SEN,Senate,Republican,Cindy Hyde-Smith,95
 MT-SEN,Senate,Republican,Kurt Alme,99
 NC-SEN,Senate,Democratic,Roy Cooper,99
-NE-SEN,Senate,Republican,Pete Ricketts,71
+NE-SEN,Senate,Republican,Pete Ricketts,89
 NH-SEN,Senate,Democratic,Chris Pappas,98
-NJ-SEN,Senate,Democratic,Cory Booker,100
+NJ-SEN,Senate,Democratic,Cory Booker,99
 NM-SEN,Senate,Democratic,Ben Ray Luján,100
-OH-SEN,Senate,Democratic,Sherrod Brown,71
+OH-SEN,Senate,Democratic,Sherrod Brown,74
 OK-SEN,Senate,Republican,Kevin Hern,99
-OR-SEN,Senate,Democratic,Jeff Merkley,100
+OR-SEN,Senate,Democratic,Jeff Merkley,99
 RI-SEN,Senate,Democratic,John Francis Reed,100
 SC-SEN,Senate,Republican,Darline Graham,83
 SD-SEN,Senate,Republican,Mike Rounds,99
-TN-SEN,Senate,Republican,Bill Hagerty,100
-TX-SEN,Senate,Democratic,James Talarico,75
-VA-SEN,Senate,Democratic,Mark Warner,100
-WV-SEN,Senate,Republican,Shelley Moore Capito,100
-WY-SEN,Senate,Republican,Harriet Hageman,100
+TN-SEN,Senate,Republican,Bill Hagerty,99
+TX-SEN,Senate,Democratic,James Talarico,78
+VA-SEN,Senate,Democratic,Mark Warner,99
+WV-SEN,Senate,Republican,Shelley Moore Capito,99
+WY-SEN,Senate,Republican,Harriet Hageman,99
